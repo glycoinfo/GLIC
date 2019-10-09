@@ -6,18 +6,18 @@
 
 ## Contents
 
-* [Softwares](https://test.glic.glycoinfo.org/software/)
+* [Softwares](https://glic.glycoinfo.org/software/)
 
-* [Database](https://test.glic.glycoinfo.org/database/)
+* [Database](https://glic.glycoinfo.org/database/)
 
-* [Documentation](https://TEST.glic.glycoinfo.org/documentation/)
+* [Documentation](https://glic.glycoinfo.org/documentation/)
 
-* [Meetings](https://test.glic.glycoinfo.org/meetings/)
+* [Meetings](https://glic.glycoinfo.org/meetings/)
 
 * Members
 
-* [Survey](https://test.glic.glycoinfo.org/survey/)
+* [Survey](https://glic.glycoinfo.org/survey/)
 
-* [WishList](https://test.glic.glycoinfo.org/wishList/)
+* [WishList](https://glic.glycoinfo.org/wishList/)
 
-* [TooList](https://test.glic.glycoinfo.org/wishList/toolsList/)
+* [TooList](https://glic.glycoinfo.org/wishList/toolsList/)
