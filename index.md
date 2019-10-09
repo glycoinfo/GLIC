@@ -20,4 +20,4 @@
 
 * [WishList](https://glic.glycoinfo.org/wishList/)
 
-* [TooList](https://glic.glycoinfo.org/wishList/toolsList/)
+* [TooList](https://glic.glycoinfo.org/toolsList/)
