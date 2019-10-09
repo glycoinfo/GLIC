@@ -1,9 +1,4 @@
----
-title: Tools being Developed
-layout: toolslist
----
 
-<br>
 This is the Wishlist of tools that are being developed. (If you have recently submitted a form to have a tool developed, it may take several minutes for it to load in the list below.) Developers will try to contact you as soon as possible for more details.  
 If there are any problems with the spreadsheet, please send an email to the GLIC mailing list at <glycoinformatics-consortium-glic@googlegroups.com>.
 
