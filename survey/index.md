@@ -1,8 +1,3 @@
----
-layout: default
-title: Survey
-redirect_from: /blog.html
----
 ## GlyCosmosポータル　アンケート
 * [Survey Link](https://docs.google.com/forms/d/1Ffv-64VVp2nGlBrcFgCQKXPLsg-xBtJ5vVzRW4jnwLY/edit?ts=596df11b) 
 
