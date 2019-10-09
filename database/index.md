@@ -246,7 +246,7 @@ support the analysis of glycan array data for the Consortium for Functional Glyc
 ---|---
 **Data in Database** | Glycan structures, chemical synthesis, carbohydrate-protein interaction, 3D-structures, and linked to other related databases.
 **Search Options** | 
-**Availability** | <http://glyconavi.org>
+**Availability** | <https://glyconavi.org>
 **License** | CC-BY
 **Status** | stable, maintained
 **Funding** | Integrated Database Project of Japan, KAKENHI
