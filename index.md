@@ -14,8 +14,6 @@
 
 * [Meetings](https://glic.glycoinfo.org/meetings/)
 
-* Members
-
 * [Survey](https://glic.glycoinfo.org/survey/)
 
 * [WishList](https://glic.glycoinfo.org/wishList/)
