@@ -3,6 +3,7 @@
 ## GlycoCT
 
 *  [GlycoCT documentation version 3](https://github.com/glycoinfo/glic/tree/gh-pages/documentation/carbohydrate_sequence)
+*  [Points to note about GlycoCT](https://github.com/glycoinfo/GLIC/blob/master/documentation/carbohydrate_sequence/PointsToNoteAboutGlycoCT.md)
 
 ## Web3 Unique Representation of Carbohydrate Structures (WURCS)
 
