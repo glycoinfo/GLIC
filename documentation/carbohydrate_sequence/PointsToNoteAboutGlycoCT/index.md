@@ -2,7 +2,7 @@
 
 ## Underdetermined capping unit
 
- * GlycoCT with the following glycan structure is using "u(-1+1)u" in GlycanBuilder. However, in the GlycoCT manual, as the type of identifier in the LIN section "u" is not described. Fig. 25 (p. 27) illustrates how to include an undetermined capping location. The notation used for the SubTreeLinkage is  "o(4+1)d". The linkage for the glycan structure [G02402FF](https://glytoucan.org/Structures/Glycans/G02402FF) shown belowshould be represented as "o(-1+1)d".
+ * GlycoCT with the following glycan structure is using "u(-1+1)u" in GlycanBuilder. However, in the GlycoCT manual, as the type of identifier in the LIN section "u" is not described. Fig. 25 (p. 27) illustrates how to include an undetermined capping location. The notation used for the SubTreeLinkage is  "o(4+1)d". The linkage for the glycan structure [G02402FF](https://glytoucan.org/Structures/Glycans/G02402FF) shown below should be represented as "o(-1+1)d".
  
 ![GlyTouCan - G02402FF](https://image.glycosmos.org/snfg/png/G02402FF)
 
