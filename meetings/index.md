@@ -1,7 +1,16 @@
 ## Upcoming meetings
 
+#### GLIC online meeting
+* Aug xx, 2020: 
+
+#### GLIC Hackathon
+* Nov xx, 2020: 
+
+#### GLIC online meeting
+* Apr xx, 2020: 
+
 #### <a href="https://kiyoko.gitlab.io/microglycodb/">International Symposium on Microbial Glycoconjugate Synthesis and Catabolism</a>
- * March 9-12, 2019 (<a>Soka University, Tokyo JAPAN</a>)
+ * March 9-12, 2020 (<a>Soka University, Tokyo JAPAN</a>)
 
 
 ## Past meetings
