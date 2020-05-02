@@ -19,3 +19,7 @@
 * [WishList](https://glic.glycoinfo.org/wishList/)
 
 * [ToolsList](https://glic.glycoinfo.org/toolsList/)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/2530360/80869737-1ec35400-8cdd-11ea-85ef-f30ffbc004c6.png" width="300">
+</div>
