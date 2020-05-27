@@ -265,3 +265,48 @@ The library includes the following functions:
 **Funding** | -
 **Future Plans** | Continued development of glycan structure model and algorithms on that model.
 **Contact** | Joseph Zaia: <jzaia@bu.edu>
+
+
+<a name="tools12"></a>
+
+<br>
+
+<br>
+
+### GLAD
+  GLAD (Glycan Array Dashboard) is a web-based tool to visualize, analyze and compare glycan microarray data. The application allows users to load data from multiple microarray experiments and visualize the data using different visualization forms such as heatmaps, correlation maps, force graphs and more. GLAD allows users to view glycan structure alongside the microarray data at any time, provided the glycan names are entered in the CFG linear nomenclature format (modified condensed IUPAC nomenclature) with the input data. The visualizations produced can be saved as vector graphic (SVG) files and can be used for publications.
+
+| | |
+---|---
+**Processed Data** | None
+**Software Type** | Web-based Software
+**Availability** | <https://www.glycotoolkit.com/GLAD>
+**Source code** | N/A
+**License** | CC-BY
+**Status** | Stable, version 2.0
+**Funding** | NIH
+**Developers** | Akul Y. Mehta
+**Contact** | Akul Y. Mehta: <aymehta@bidmc.harvard.edu> <br> Richard D. Cummings <rcummin1@bidmc.harvard.edu>
+
+
+<a name="tools13"></a>
+
+<br>
+
+<br>
+
+### GlycoGlyph
+  GlycoGlyph is an open source web-based glycan drawing and naming tool which is completely driven by JavaScript. Glycans can be drawn using a graphical user interface or using names written in CFG linear nomenclature (modified IUPAC condensed linear nomenclature). The structures are drawn as per SNFG specifications with capabilities for size adjustments and can be saved as vector graphic (SVG) files. The tool also produces the CFG name and GlycoCT. The GlycoCT can in-turn be used to retrieve the GlyTouCan accession number directly from the application. 
+
+| | |
+---|---
+**Processed Data** | None
+**Software Type** | Web-based Software
+**Availability** | <https://www.glycotoolkit.com/GlycoGlyph>
+**Source code** | https://github.com/akulmehta/GlycoGlyphPublic/
+**License** | MIT
+**Status** | Stable, version 1.0.1
+**Funding** | NIH
+**Developers** | Akul Y. Mehta
+**Contact** | Akul Y. Mehta: <aymehta@bidmc.harvard.edu> <br> Richard D. Cummings <rcummin1@bidmc.harvard.edu>
+
