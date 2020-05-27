@@ -191,7 +191,7 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 <br>
 
 ### GlycoPattern  
-  GlycoPattern is Web-based bioinformatics resource to
+  GlycoPattern is currently in the process of identifying new funding for hosting. It is a web-based bioinformatics resource to
 support the analysis of glycan array data for the Consortium for Functional Glycomics. This resource includes algorithms and tools to discover structural motifs, a heatmap visualization to compare multiple experiments, hierarchical clustering of Glycan Binding Proteins with respect to their binding motifs and a structural search feature on the experimental data.
 
 <br>
