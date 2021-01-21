@@ -1,6 +1,12 @@
 # Points to note about GlycoCT
 
-## Underdetermined capping unit
+1. <a href="#underdetermined-capping-unit">Underdetermined capping unit</a>
+2. <a href="#selection-of-residues-connecting-ambiguous-antenna-residues">Selection of residues connecting ambiguous antenna residues</a>
+3. <a href="#change-of-substituent-type">Change of substituent type</a>
+4. <a href="#available-substituents-in-glycoct">Available substituents in GlycoCT</a>
+
+
+## 1. Underdetermined capping unit
 
  * GlycoCT with the following glycan structure is using "u(-1+1)u" in GlycanBuilder. However, in the GlycoCT manual, as the type of identifier in the LIN section "u" is not described. Fig. 25 (p. 27) illustrates how to include an undetermined capping location. The notation used for the SubTreeLinkage is  "o(4+1)d". The linkage for the glycan structure [G02402FF](https://glytoucan.org/Structures/Glycans/G02402FF) shown below should be represented as "o(-1+1)d".
  
@@ -60,7 +66,7 @@ RES
 
 
 
-## Selection of residues connecting ambiguous antenna residues
+## 2. Selection of residues connecting ambiguous antenna residues
 1. Build glycan with a bracket using GlycoWorkbench (or GlycanBuilder)
 ![bracket1](https://user-images.githubusercontent.com/2530360/105280525-52d50100-5bed-11eb-9c0a-f6f10e2ee299.PNG)
 1. Export to GlycoCT format
@@ -73,7 +79,7 @@ RES
 ![bracket4-2 1](https://user-images.githubusercontent.com/2530360/105280653-97f93300-5bed-11eb-9cdb-b441b8362ce7.png)
 
 
-## Change of substituent type
+## 3. Change of substituent type
 1. Build glycan with a substituent using GlycoWorkbench (or GlycanBuilder)
     * The substituent must be able to convert to GlycoCT (e.g. phosphate)
 ![modSubstituent1](https://user-images.githubusercontent.com/2530360/105280991-72b8f480-5bee-11eb-88a7-a6c69cc13b81.PNG)
@@ -85,7 +91,7 @@ RES
 ![modSubstituent4-2 1](https://user-images.githubusercontent.com/2530360/105281079-a98f0a80-5bee-11eb-99cd-d25bfa55b445.PNG)
 
 
-## Available substituents in GlycoCT
+## 4. Available substituents in GlycoCT
 ![substituents](https://user-images.githubusercontent.com/2530360/105281469-99c3f600-5bef-11eb-8334-8168823e4cff.png)
 
  [Available substituents in GlycoCT](https://github.com/glycoinfo/GLIC/blob/master/documentation/carbohydrate_sequence/AvailableSubstituentsGlycoCT.md)
