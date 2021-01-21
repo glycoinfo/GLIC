@@ -84,3 +84,6 @@ RES
 ![modSubstituent4-1 1](https://user-images.githubusercontent.com/2530360/105281063-9ed47580-5bee-11eb-9192-247965ffaf1e.PNG)
 ![modSubstituent4-2 1](https://user-images.githubusercontent.com/2530360/105281079-a98f0a80-5bee-11eb-99cd-d25bfa55b445.PNG)
 
+
+## Available substituents in GlycoCT
+![substituents](https://user-images.githubusercontent.com/2530360/105281469-99c3f600-5bef-11eb-8334-8168823e4cff.png)
