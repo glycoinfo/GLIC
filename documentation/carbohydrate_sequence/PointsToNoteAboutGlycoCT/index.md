@@ -1,9 +1,9 @@
 # Points to note about GlycoCT
 
-1. <a href="#underdetermined-capping-unit">Underdetermined capping unit</a>
-2. <a href="#selection-of-residues-connecting-ambiguous-antenna-residues">Selection of residues connecting ambiguous antenna residues</a>
-3. <a href="#change-of-substituent-type">Change of substituent type</a>
-4. <a href="#available-substituents-in-glycoct">Available substituents in GlycoCT</a>
+1. <a href="#1-underdetermined-capping-unit">Underdetermined capping unit</a>
+2. <a href="#2-selection-of-residues-connecting-ambiguous-antenna-residues">Selection of residues connecting ambiguous antenna residues</a>
+3. <a href="#3-change-of-substituent-type">Change of substituent type</a>
+4. <a href="#4-available-substituents-in-glycoct">Available substituents in GlycoCT</a>
 
 
 ## 1. Underdetermined capping unit
