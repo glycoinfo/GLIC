@@ -1,0 +1,47 @@
+## Available substituents in GlycoCT
+
+| Substituent name in GlycoCT | Symbol in GlycoWorkbench | Is convertible into GlycoCT using GlycoWorkbench |
+| --- | --- | --- |
+| methyl | Me | yes |
+| acetyl | Ac | yes |
+| n-acetyl | NAc | yes |
+| phosphate | P | yes |
+| sulfate | S | yes |
+| pyruvate | Pyr | no |
+| phospho-choline | PC | no |
+| phospho-ethanolamine | PEtn | no |
+| diphospho-ethanolamine | PPEtn | no |
+| amino | N | no |
+| bromo | --- | --- |
+| chloro | --- | --- |
+| ethyl | --- | --- |
+| fluoro | --- | --- |
+| formyl | --- | --- |
+| glycolyl | --- | --- |
+| hydroxymethyl | --- | --- |
+| iodo | --- | --- |
+| n-alanine | --- | --- |
+| n-dimetyl | --- | --- |
+| n-formyl | --- | --- |
+| n-glycolyl | --- | --- |
+| n-methyl | --- | --- |
+| n-succinate | --- | --- |
+| n-triflouroacetyl | --- | --- |
+| nitrate | --- | --- |
+| (r)-lactate | --- | --- |
+| (s)-lactate | --- | --- |
+| (x)-lactate | --- | --- |
+| thio | --- | --- |
+| amidino | --- | --- |
+| carboxymethyl | --- | --- |
+| (r)-carboxyethyl | --- | --- |
+| (s)-carboxyethyl | --- | --- |
+| n-methyl-carbamoyl | --- | --- |
+| (r)-pyruvate | --- | --- |
+| (s)-pyruvate | --- | --- |
+| ethanolamine | --- | --- |
+| imino | --- | --- |
+| succinate | --- | --- |
+| n-sulfate | --- | --- |
+| pyrophosphate | --- | --- |
+| triphosphate | --- | --- |
