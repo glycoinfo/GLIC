@@ -58,3 +58,17 @@ RES
 8b:x-dman-HEX-1:5
 ```
 
+
+
+## Selection of residues connecting ambiguous antenna residues
+1. Build glycan with a bracket using GlycoWorkbench (or GlycanBuilder)
+![bracket1](https://user-images.githubusercontent.com/2530360/105280525-52d50100-5bed-11eb-9c0a-f6f10e2ee299.PNG)
+1. Export to GlycoCT format
+![bracket2](https://user-images.githubusercontent.com/2530360/105280578-6aac8500-5bed-11eb-83dc-878fc7abd261.PNG)
+1. Find residues related to ambiguous antenna and their ID numbers in the GlycoCT
+![bracket3 1](https://user-images.githubusercontent.com/2530360/105280605-78faa100-5bed-11eb-9023-f5860b93d7e2.png)
+1. Change the ID numbers specified at "ParentIDs" in the GlycoCT to select parent residues of ambiguous antenna
+    * Also need to change the connecting type in "SubtreeLinkageID"
+![bracket4-1 1](https://user-images.githubusercontent.com/2530360/105280630-86b02680-5bed-11eb-9bff-b4d059e618db.png)
+![bracket4-2 1](https://user-images.githubusercontent.com/2530360/105280653-97f93300-5bed-11eb-9cdb-b441b8362ce7.png)
+
