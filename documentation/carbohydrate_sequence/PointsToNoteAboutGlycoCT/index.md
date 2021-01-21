@@ -72,3 +72,63 @@ RES
 ![bracket4-1 1](https://user-images.githubusercontent.com/2530360/105280630-86b02680-5bed-11eb-9bff-b4d059e618db.png)
 ![bracket4-2 1](https://user-images.githubusercontent.com/2530360/105280653-97f93300-5bed-11eb-9cdb-b441b8362ce7.png)
 
+
+## Change of substituent type
+1. Build glycan with a substituent using GlycoWorkbench (or GlycanBuilder)
+    * The substituent must be able to convert to GlycoCT (e.g. phosphate)
+![modSubstituent1](https://user-images.githubusercontent.com/2530360/105280991-72b8f480-5bee-11eb-88a7-a6c69cc13b81.PNG)
+1. Export to GlycoCT format
+![modSubstituent2](https://user-images.githubusercontent.com/2530360/105281025-88c6b500-5bee-11eb-8ab7-0eded070d139.PNG)
+1. Find the substituent residue in the GlycoCT
+1. Change the substituent name to the other one which you want to add
+![modSubstituent4-1 1](https://user-images.githubusercontent.com/2530360/105281063-9ed47580-5bee-11eb-9192-247965ffaf1e.PNG)
+![modSubstituent4-2 1](https://user-images.githubusercontent.com/2530360/105281079-a98f0a80-5bee-11eb-99cd-d25bfa55b445.PNG)
+
+## Available substituents in GlycoCT
+| Substituent name in GlycoCT | Symbol in GlycoWorkbench | Is convertible into GlycoCT using GlycoWorkbench |
+| --- | --- | --- |
+| methyl | Me | yes |
+| acetyl | Ac | yes |
+| n-acetyl | NAc | yes |
+| phosphate | P | yes |
+| sulfate | S | yes |
+| pyruvate | Pyr | no |
+| phospho-choline | PC | no |
+| phospho-ethanolamine | PEtn | no |
+| diphospho-ethanolamine | PPEtn | no |
+| amino | N | no |
+| bromo | --- | --- |
+| chloro | --- | --- |
+| ethyl | --- | --- |
+| fluoro | --- | --- |
+| formyl | --- | --- |
+| glycolyl | --- | --- |
+| hydroxymethyl | --- | --- |
+| iodo | --- | --- |
+| n-alanine | --- | --- |
+| n-dimetyl | --- | --- |
+| n-formyl | --- | --- |
+| n-glycolyl | --- | --- |
+| n-methyl | --- | --- |
+| n-succinate | --- | --- |
+| n-triflouroacetyl | --- | --- |
+| nitrate | --- | --- |
+| (r)-lactate | --- | --- |
+| (s)-lactate | --- | --- |
+| (x)-lactate | --- | --- |
+| thio | --- | --- |
+| amidino | --- | --- |
+| carboxymethyl | --- | --- |
+| (r)-carboxyethyl | --- | --- |
+| (s)-carboxyethyl | --- | --- |
+| n-methyl-carbamoyl | --- | --- |
+| (r)-pyruvate | --- | --- |
+| (s)-pyruvate | --- | --- |
+| ethanolamine | --- | --- |
+| imino | --- | --- |
+| succinate | --- | --- |
+| n-sulfate | --- | --- |
+| pyrophosphate | --- | --- |
+| triphosphate | --- | --- |
+
+
