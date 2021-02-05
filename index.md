@@ -8,7 +8,7 @@
 
 * [Software](https://glic.glycoinfo.org/software/)
 
-* [Databaseｓ](https://glic.glycoinfo.org/database/)
+* [Databases](https://glic.glycoinfo.org/database/)
 
 * [Documentation](https://glic.glycoinfo.org/documentation/)
 
