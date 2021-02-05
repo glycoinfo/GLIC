@@ -6,9 +6,9 @@
 
 ## Contents
 
-* [Softwares](https://glic.glycoinfo.org/software/)
+* [Software](https://glic.glycoinfo.org/software/)
 
-* [Database](https://glic.glycoinfo.org/database/)
+* [Databaseｓ](https://glic.glycoinfo.org/database/)
 
 * [Documentation](https://glic.glycoinfo.org/documentation/)
 
