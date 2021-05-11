@@ -6,6 +6,31 @@
 
 <br>
 
+### GlyCosmos  
+  A Web portal for glycoscience data based on Semantic Web technology.  Glycan-related data including
+  genes, proteins, lipids, pathways, diseases and organisms can be cross-searched, and all entries are 
+  linked with other data where available.
+
+<br>
+
+| | |
+---|---
+**Data in Database** | glycan structures, proteins, genes, lipids, pathways, diseases, organisms, etc.
+**Search Options** | glycan search options: substructure, subsumption, composition; text search across all data
+**Availability** | <https://glycosmos.org>
+**License** | CC-BY-4.0
+**Status** | stable, maintained
+**Funding** | JST/NDBC of Japan
+**Future Plans** | -
+**Code Availablity** | on request; Data Download and SPARQL endpoints available
+**Contact** | Kiyoko F. Aoki-Kinoshita: <kkiyoko@soka.ac.jp>  
+
+<a name="data2"></a>
+
+<br>
+
+<br>
+
 ### GlyTouCan  
   The international glycan repository where users can register structures and obtain an accession number once validated.
 Glycan database developers can become "GlyTouCan Partners" to link their data with GlyTouCan automatically.
