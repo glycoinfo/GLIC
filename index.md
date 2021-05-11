@@ -1,9 +1,8 @@
 # Welcome to Glycoinformatics Consortium (GLIC)
 
-* The Glycoinformatics Consortium is an international group of glycoinformatics experts who have
-developed software and databases for glycoscience research.
-This site is to provide communication point for glycoscientists and glycoinformaticians.
+The purpose of the Glycoinformatics Consortium (GLIC) is to provide a centralized source software repository for glycoscientists. In addition, it is aimed to provide a communication point for glycoscientists and glycoinformaticians.
 
+This home page provides a list of software and databases for glycoscience research. There is also a Wish List to which scientists can contribute requests for software, tools or databases.
 <!-- * Sat, 16 Oct, 2019 9:00 - 18:00(JST)(planned), GLIC SPARQL endpoint will be unavailable due to maintenance. -->
 
 ## Contents
