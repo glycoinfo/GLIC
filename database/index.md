@@ -43,7 +43,7 @@ More advanced search functionality is available from GlyCosmos at https://glycos
 **Data in Database** | structure, databases references, species annotation
 **Search Options** | sub-structure search
 **Availability** | <https://glytoucan.org>
-**License** | CC-0
+**License** | CC-BY-0
 **Status** | stable, maintained
 **Funding** | JST/NDBC of Japan
 **Future Plans** | -
@@ -217,28 +217,6 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 
 <br>
 
-### GlyTouCan
-  Glycan structure/sequence/composition repository
-
-<br>
-
-| | |
----|---
-**Data in Database** | Glycan structures, as images, GlycoCT and WURCS, and their motifs, monosaccharides and linked to other related databases including GlycomeDB, BCSDB, GlycoEpitope, with others continuing to be added. Each glycan structure is assigned a GlyTouCan ID.
-**Search Options** | Graphical and textual substructure search, ID search and motif search
-**Availability** | <http://www.glytoucan.org>
-**License** | CC-BY
-**Status** | stable, maintained
-**Funding** | Integrated Database Project of Japan
-**Future Plans** | Incorporation of UniCarbKB and other JCGGDB databases
-**Code Availablity** | open source
-**Contact** | Kiyoko F. Aoki-Kinoshita: <kkiyoko@soka.ac.jp>
-
-<a name="data9"></a>
-
-<br>
-
-<br>
 
 ### GlycoPattern  
   GlycoPattern is currently in the process of identifying new funding for hosting. It is a web-based bioinformatics resource to
