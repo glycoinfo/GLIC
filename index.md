@@ -7,6 +7,11 @@ This home page provides a list of software and databases for glycoscience resear
 
 ## Contents
 
+* [GLIC RDF Support (GitHub)](https://github.com/glycoinfo/rdf): GLIC manages a repository for RDF data, providing a SPARQL endpoint automatically.
+![Overview for GLIC endpoint](https://user-images.githubusercontent.com/993956/117775617-a2f7d200-b275-11eb-863d-1191b9331363.png)
+
+  * [GLIC RDF endpoint](https://sparql.glycoinfo.org/sparql): GLIC endpoint
+
 * [Software](https://glic.glycoinfo.org/software/): List of software developed by GLIC members.
 
 * [Databases](https://glic.glycoinfo.org/database/): List of databases developed by GLIC members.
