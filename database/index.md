@@ -6,6 +6,31 @@
 
 <br>
 
+### GlyTouCan  
+  The international glycan repository where users can register structures and obtain an accession number once validated.
+Glycan database developers can become "GlyTouCan Partners" to link their data with GlyTouCan automatically.
+More advanced search functionality is available from GlyCosmos at https://glycosmos.org.
+
+<br>
+
+| | |
+---|---
+**Data in Database** | structure, databases references, species annotation
+**Search Options** | sub-structure search
+**Availability** | <https://glytoucan.org>
+**License** | CC-0
+**Status** | stable, maintained
+**Funding** | JST/NDBC of Japan
+**Future Plans** | -
+**Code Availablity** | on request
+**Contact** | Kiyoko F. Aoki-Kinoshita: <kkiyoko@soka.ac.jp>  
+
+<a name="data2"></a>
+
+<br>
+
+<br>
+
 ### GlycomeDB  
   Meta database that integrates the structures from several glycomics databases (CFG, KEGG, GLYCOSCIENCES.de, GlycoBase, JCGGDB, BCSDB, PDB, GlycO and Carbbank) into one consistent sequence representation and creating a unique index of all structures present in the integrated database. Species annotations from the other databases are retrieved as well and integrated using the NCBI Taxonomy. Each structure in GlycomeDB is linked back to the original database allowing finding and browsing all occurrences of a structure in multiple databases.
 
