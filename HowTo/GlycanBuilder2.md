@@ -1,5 +1,15 @@
 # How to use GlycanBuilder2 software
 
+## Download GlycanBuilder2
+
+* https://github.com/glycoinfo/Executable/blob/master/GlycanBuilder2/GlycanBuilder2_for_mac.zip
+  * GlycanBuilder2_for_mac.zip
+
+* Unzip the zip file
+* Double-click "run.command" in the unzipped folder.
+  * If you do not have java installed, please install it.
+
+
 ## How to draw a high mannose glycan
 
 * Video https://www.youtube.com/watch?v=yY1al648RvI
@@ -167,4 +177,36 @@ SubtreeLinkageID1:o(-1+1)d
 RES
 20b:x-dman-HEX-1:5
 ```
+
+## Confirmation of glycan structure
+
+* Move to GlycoNAVI GlycanFormatConverter site (https://glyconavi.org/Tools/tool/gfc.php).
+* Paste the modified GlycoCT into the input box below the GlycoCT to WURCS. (Please delete the GlycoCT you have already entered.) 
+
+![image](https://user-images.githubusercontent.com/2530360/118645479-f3dd6c80-b819-11eb-9116-5d21170a383d.png)
+
+* You can get the result of conversion from GlycoCT format to WURCS format.
+
+![image](https://user-images.githubusercontent.com/2530360/118644871-3783a680-b819-11eb-84e8-a74cec5813ca.png)
+
+* Copies the converted WURCS string.
+
+![image](https://user-images.githubusercontent.com/2530360/118644989-53874800-b819-11eb-9903-52eb94c5f2a7.png)
+
+
+* Move to GlycoNAVI GlyCosmos API site (https://glyconavi.org/Tools/tool/cosmos.php).
+
+* Paste the WURCS into the input box below the Glycan Images. (Please delete the WURCS you have already entered.)
+* 
+![GlycoNAVI-GFC](https://user-images.githubusercontent.com/2530360/118644344-ad3b4280-b818-11eb-8ca0-f3c49e494391.png)
+
+* Click the Convert button.
+
+* The following glycan structures can be confirmed.
+
+![image](https://user-images.githubusercontent.com/2530360/118645271-ac56e080-b819-11eb-9003-5defb786932c.png)
+
+
+
+
 
