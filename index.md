@@ -26,5 +26,7 @@ This home page provides a list of software and databases for glycoscience resear
 
   
 <div align="center">
-<img src="https://user-images.githubusercontent.com/2530360/80869737-1ec35400-8cdd-11ea-85ef-f30ffbc004c6.png" width="300">
+<img src="https://user-images.githubusercontent.com/2530360/142803417-bd53a85b-e16e-4294-999a-606581cb088d.png" width="300">
 </div>
+
+
