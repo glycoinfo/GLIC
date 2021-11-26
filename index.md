@@ -22,11 +22,4 @@ This home page provides a list of software and databases for glycoscience resear
 * [GLIC RDF Support (GitHub)](https://github.com/glycoinfo/rdf): GLIC manages a repository for RDF data, providing a SPARQL endpoint automatically.
   * [GLIC RDF endpoint](https://sparql.glycoinfo.org/sparql): GLIC endpoint -- 'A system failure has occurred on GLIC endpoint. 2021-07-17 (JST)'
 
-![Overview for GLIC endpoint](https://user-images.githubusercontent.com/993956/117775617-a2f7d200-b275-11eb-863d-1191b9331363.png)
-
-  
-<div align="center">
-<img src="https://user-images.githubusercontent.com/2530360/142803417-bd53a85b-e16e-4294-999a-606581cb088d.png" width="300">
-</div>
-
-
+![Overview for GLIC endpoint](https://user-images.githubusercontent.com/2530360/143518443-67f6e4bd-5fa0-49bb-877a-7f5177f6513a.png)
