@@ -4,4 +4,4 @@ About us
 
 * Vice-chairperson: Rene Ranzinger and Kiyoko F. Aoki-Kinoshita
 
-* Secretary: mIssaku Yamada
+* Secretary: Issaku Yamada
