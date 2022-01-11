@@ -31,6 +31,31 @@
 
 <br>
 
+### GlyGen  
+  GlyGen is a web based database that integrates glycomics and proteomics data from multiple international
+  databases into a single resource. This allows to asked questions across from multiple databases and 
+  domains using one interface. GlyGen provides data as webpages, downloadable CSV files, RESTful web 
+  service APIs using JSON format and as SPARQL endpoint.
+
+<br>
+
+| | |
+---|---
+**Data in Database** | glycan structures, proteins, genes, enzymes, diseases, organisms, papers etc.
+**Search Options** | glycan search options: identifier, mass, classification, subsumption, composition etc.; protein search options: identifiers, attached glycans, GO terms, PTM, disease etc.; combined search options using protein and glycan search criteria
+**Availability** | <https://www.glygen.org>
+**License** | [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+**Status** | stable, maintained
+**Funding** | [NIH Glycoscience Common Fund](https://reporter.nih.gov/project-details/9942478) 
+**Future Plans** | Adding more species to the database; Adding lipids to the database; Structure based search options
+**Code Availablity** | [GitHub](https://github.com/glygener)
+**Contact** | GlyGen Consortium <myglygen@gmail.com>  
+
+<a name="data2"></a>
+
+<br>
+
+<br>
 ### GlyTouCan  
   The international glycan repository where users can register structures and obtain an accession number once validated.
 Glycan database developers can become "GlyTouCan Partners" to link their data with GlyTouCan automatically.
