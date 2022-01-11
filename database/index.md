@@ -32,10 +32,11 @@
 <br>
 
 ### GlyGen  
-  GlyGen is a web based database that integrates glycomics and proteomics data from multiple international
-  databases into a single resource. This allows to asked questions across from multiple databases and 
-  domains using one interface. GlyGen provides data as webpages, downloadable CSV files, RESTful web 
-  service APIs using JSON format and as SPARQL endpoint.
+  GlyGen is a data integration and dissemination project for carbohydrate and glycoconjugate related data. 
+  GlyGen retrieves information from multiple international data sources and integrates and harmonizes this 
+  data. The GlyGen web portal allows exploration of this data and execution of unique searches that cannot 
+  be performed using any of the integrated databases in isolation. GlyGen also provides machine readable APIs 
+  and a SPARQL endpoint to access the integrated data.
 
 <br>
 
