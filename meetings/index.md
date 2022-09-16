@@ -6,11 +6,16 @@
 #### GLIC Hackathon
 * Xxx xx, 2022: 
 
-#### <a href="https://kiyoko.gitlab.io/microglycodb/">International Symposium on Microbial Glycoconjugates and the GlySpace Alliance: from micro to macro glycoscience</a>
- * March 01-03, 2022 (<a>Soka University, Tokyo JAPAN</a>)
 
 
 ## Past meetings
+
+#### GLIC board members meeting
+* August, 2022: 
+
+#### <a href="https://kiyoko.gitlab.io/microglycodb/">International Symposium on Microbial Glycoconjugates and the GlySpace Alliance: from micro to macro glycoscience</a>
+ * March 01-03, 2022 (<a>Soka University, Tokyo JAPAN</a>)
+
 
 #### GLIC online meeting
   * Topic: GlycoRDF and GlycoCT
