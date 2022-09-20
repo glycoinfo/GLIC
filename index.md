@@ -17,6 +17,8 @@ This home page provides a list of software and databases for glycoscience resear
 
 * [Meetings](https://glic.glycoinfo.org/meetings/): Past and upcoming meetings.
 
+* [Glycoscience Survey](https://glic.glycoinfo.org/survey/): 
+
 * [Requests](https://glic.glycoinfo.org/wishList/): Form for submitting requests for software/database development.
 
   * [WishList](https://glic.glycoinfo.org/toolsList/): List of requests selected from the submitted requests above.
