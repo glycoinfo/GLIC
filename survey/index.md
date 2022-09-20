@@ -1,4 +1,8 @@
-## GlyCosmosポータル　アンケート
+# Glycoscience Survey
+
+## GlyCosmos portal
+
+### GlyCosmosポータル　アンケート
 
 * [Survey Link 2022](https://docs.google.com/forms/d/e/1FAIpQLSek7e9s60OGJTFPqCI8I7GMvSXGOVrmtxbKwFA_WS5ZkIpYzQ/viewform) 
 
@@ -8,7 +12,7 @@
 
 2017年度からJST・バイオサイエンスデータベースセンター（NBDC）統合化推進プログラムとして新しく「糖鎖科学ポータルサイトの開発」がスタートしました。この新しいGlyCosmosポータルでは、皆様の貴重なご意見やご要望等を募り、今後の研究開発へ反映させていくことを考えています。皆様の率直なご意見・ご要望等をいただければ幸いです。
 
-## GlyCosmos
+### GlyCosmos portal Survey
 
 * [Survey Link 2022](https://docs.google.com/forms/d/e/1FAIpQLSek7e9s60OGJTFPqCI8I7GMvSXGOVrmtxbKwFA_WS5ZkIpYzQ/viewform) 
 
