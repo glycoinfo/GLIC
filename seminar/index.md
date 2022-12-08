@@ -12,7 +12,7 @@ All webinars will start at 10am ET. Registration to the seminar series wil be do
 | --- | --- | --- |
 | 02/06/2023 | Rene Ranzinger and Akul Mehta | Introduction into glycan arrays |
 | 02/13/2023 | Yukie Akune | CarbArrayART for glycan microarray data storage, presentation and reporting |
-| 02/27/2023 | Akul Mehta | TDB |
+| 02/27/2023 | Akul Mehta | Using GLAD for exploratory glycan microarray data analysis and visualization |
 | 03/06/2023 | Zachary Klamer | Using CarboGrove to Guide Experimental Design and Data Interpretation |
 | 03/20/2023 | Rene Ranzinger | Glycan Array Data Repository |
 | 03/27/2023 | Daniel Bojar | TDB |
@@ -23,7 +23,7 @@ All webinars will start at 10am ET. Registration to the seminar series wil be do
 
 ### Intoduction into glycan arrays
 **Presenter**  
-<img src="Rene-Ranzinger.jpg" height="150" >  
+<img src="Rene-Ranzinger.jpg" height="150" > <img src="AkulMehta.jpg" height="150" >  
 Rene Ranzinger and Akul Mehta
 
 **Time**  
@@ -33,14 +33,14 @@ Rene Ranzinger and Akul Mehta
 Sign up using EventBrite
 
 **Abstract**  
-TBD
+This first webinar will start a short introduction into the webinar series and the individual talks. After this we will provide a general overview about glycan array experiment and data processing and illustrate the use of this technique and data for the generation of new biological knowledge.
 
 <br/>
 
 <br/>
 
 ### CarbArrayART for glycan microarray data storage, presentation and reporting
-<img src="C-ART_logo.png" width="250" >
+<img src="C-ART_logo.png" height="130" >
 
 **Presenter**  
 <img src="yukie-akune.jpg" height="150" >  
@@ -59,8 +59,11 @@ CarbArrayART (Carbohydrate microArray Analysis and Reporting Tool) is a software
 
 <br/>
 
-### TBD
+### Using GLAD for exploratory glycan microarray data analysis and visualization
+<img src="logofavicon.png" height="130" >
+
 **Presenter**  
+<img src="AkulMehta.jpg" height="150" >  
 Akul Mehta
 
 **Time**  
@@ -70,7 +73,7 @@ Akul Mehta
 Sign up using EventBrite
 
 **Abstract**  
-TBD
+GLAD is a useful tool to explore data from several glycan microarray experiments. GLAD allows you to visualize your data and compare datasets using several visualization options. It also allows for basic data wrangling such as filtering and sorting your data.
 
 <br/>
 
@@ -80,6 +83,7 @@ TBD
 <img src="https://carbogrove.org/Logo.png" height="130" >  
 
 **Presenter**  
+<img src="ZacharyKlamer.jpg" height="150" >  
 Zachary Klamer
 
 **Time**  
