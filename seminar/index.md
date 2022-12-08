@@ -23,6 +23,7 @@ All webinars will start at 10am ET. Registration to the seminar series wil be do
 
 ### Intoduction into glycan arrays
 **Presenter**  
+<img src="Rene-Ranzinger.jpg" height="150" >  
 Rene Ranzinger and Akul Mehta
 
 **Time**  
@@ -94,6 +95,7 @@ TBD
 
 ### Glycan Array Data Repository
 **Presenter**  
+<img src="Rene-Ranzinger.jpg" height="150" >  
 Rene Ranzinger
 
 **Time**  
@@ -103,7 +105,7 @@ Rene Ranzinger
 Sign up using EventBrite
 
 **Abstract**  
-TBD
+The Glycan Array Data Repository is a online database for storing and sharing glycan array data. Every group or individual can create a account and submit their data including the MIRAGE compliant metadata. Users can freely search and access the sbumitted dataset.
 
 <br/>
 
