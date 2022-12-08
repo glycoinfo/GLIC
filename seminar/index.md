@@ -14,7 +14,7 @@ All webinars will start at 10am ET. Registration to the seminar series wil be do
 | 02/13/2023 | Yukie Akune | CarbArrayART for glycan microarray data storage, presentation and reporting |
 | 02/27/2023 | Akul Mehta | Using GLAD for exploratory glycan microarray data analysis and visualization |
 | 03/06/2023 | Zachary Klamer | Using CarboGrove to Guide Experimental Design and Data Interpretation |
-| 03/20/2023 | Ren&#233; Ranzinger | Glycan Array Data Repository |
+| 03/20/2023 | Ren&#233; Ranzinger | The Glycan Array Data Repository |
 | 03/27/2023 | Daniel Bojar | TDB |
 
 <br/>
@@ -99,7 +99,7 @@ Lectins and Glycan Binding Proteins are powerful and accessible tools for glycan
 
 <br/>
 
-### Glycan Array Data Repository
+### The Glycan Array Data Repository
 **Presenter**  
 <img src="Rene-Ranzinger.jpg" height="150" >  
 Ren&#233; Ranzinger
