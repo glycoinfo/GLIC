@@ -33,7 +33,7 @@ Ren&#233; Ranzinger and Akul Mehta
 Sign up using EventBrite
 
 **Abstract**  
-This first webinar will start a short introduction into the webinar series and the individual talks. After this we will provide a general overview about glycan array experiment and data processing and illustrate the use of this technique and data for the generation of new biological knowledge.
+This first webinar will start with a short introduction into the webinar series and the individual talks. In this seminar we will provide a general overview about glycan array experiment and data processing and illustrate the use of this technique and data for the generation of new biological knowledge.
 
 <br/>
 
