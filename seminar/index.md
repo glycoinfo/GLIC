@@ -17,84 +17,108 @@ All webinars will start at 10am ET. Registration to the seminar series wil be do
 | 03/20/2023 | Rene Ranzinger | Glycan Array Data Repository |
 | 03/27/2023 | Daniel Bojar |
 
+<br/>
+
+<br/>
+
 ### Intoduction into glycan arrays
-**Presenter**
+**Presenter**  
 Rene Ranzinger and Akul Mehta
 
-**Time**
+**Time**  
 02/06/2023 10am ET
 
-**Registration**
+**Registration**  
 Sign up using EventBrite
 
-**Abstract**
+**Abstract**  
 TBD
+
+<br/>
+
+<br/>
 
 ### CarbArrayART for glycan microarray data storage, presentation and reporting
-<img src="C-ART_logo.png" width="50" >
+<img src="C-ART_logo.png" width="250" >
 
-**Presenter**
-<img src="yukie-akune.jpg" width="50" >
+**Presenter**  
+<img src="yukie-akune.jpg" height="150" >  
 Yukie Akune
 
-**Time**
+**Time**  
 02/13/2023 10am ET
 
-**Registration**
+**Registration**  
 Sign up using EventBrite
 
-**Abstract**
+**Abstract**  
 CarbArrayART (Carbohydrate microArray Analysis and Reporting Tool) is a software tool for day to day use for: (1) Recording scan data and related metadata. (2) Processing and presentation of data as tables and charts with filtering and sorting functions and (3) Reporting data compliant with MIRAGE guidelines.
 
+<br/>
+
+<br/>
+
 ### TBD
-**Presenter**
+**Presenter**  
 Akul Mehta
 
-**Time**
+**Time**  
 02/27/2023 10am ET
 
-**Registration**
+**Registration**  
 Sign up using EventBrite
 
-**Abstract**
+**Abstract**  
 TBD
 
+<br/>
+
+<br/>
+
 ### TBD
-**Presenter**
+**Presenter**  
 Zachary Klamer
 
-**Time**
+**Time**  
 03/06/2023 10am ET
 
-**Registration**
+**Registration**  
 Sign up using EventBrite
 
-**Abstract**
+**Abstract**  
 TBD
+
+<br/>
+
+<br/>
 
 ### Glycan Array Data Repository
-**Presenter**
+**Presenter**  
 Rene Ranzinger
 
-**Time**
+**Time**  
 03/20/2023 10am ET
 
-**Registration**
+**Registration**  
 Sign up using EventBrite
 
-**Abstract**
+**Abstract**  
 TBD
 
+<br/>
+
+<br/>
+
 ### TBD
-**Presenter**
+**Presenter**  
 Daniel Bojar
 
-**Time**
+**Time**  
 03/27/2023 10am ET
 
-**Registration**
+**Registration**  
 Sign up using EventBrite
 
-**Abstract**
+**Abstract**  
 TBD
 
