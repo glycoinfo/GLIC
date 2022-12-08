@@ -12,10 +12,10 @@ All webinars will start at 10am ET. Registration to the seminar series wil be do
 | --- | --- | --- |
 | 02/06/2023 | Rene Ranzinger and Akul Mehta | Introduction into glycan arrays |
 | 02/13/2023 | Yukie Akune | CarbArrayART for glycan microarray data storage, presentation and reporting |
-| 02/27/2023 | Akul Mehta | |
-| 03/06/2023 | Zachary Klamer | |
+| 02/27/2023 | Akul Mehta | TDB |
+| 03/06/2023 | Zachary Klamer | TDB |
 | 03/20/2023 | Rene Ranzinger | Glycan Array Data Repository |
-| 03/27/2023 | Daniel Bojar |
+| 03/27/2023 | Daniel Bojar | TDB |
 
 <br/>
 
