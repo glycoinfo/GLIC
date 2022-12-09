@@ -21,7 +21,7 @@ All webinars will start at 10am ET. Registration to the seminar series wil be do
 
 <br/>
 
-### Intoduction into glycan arrays
+### Introduction into glycan arrays
 **Presenter**  
 <img src="Rene-Ranzinger.jpg" height="150" > <img src="AkulMehta.jpg" height="150" >  
 Ren&#233; Ranzinger<sup>1</sup>  and Akul Mehta<sup>2</sup>  
