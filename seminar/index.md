@@ -10,12 +10,12 @@ All webinars will start at 10am ET. Registration to the seminar series wil be do
 
 | Date/Time | Presenter | Title |
 | --- | --- | --- |
-| 02/06/2023 | Ren&#233; Ranzinger and Akul Mehta | Introduction into glycan arrays |
-| 02/13/2023 | Yukie Akune | CarbArrayART for glycan microarray data storage, presentation and reporting |
-| 02/27/2023 | Akul Mehta | Using GLAD for exploratory glycan microarray data analysis and visualization |
-| 03/06/2023 | Zachary Klamer | Using CarboGrove to Guide Experimental Design and Data Interpretation |
-| 03/20/2023 | Ren&#233; Ranzinger | The Glycan Array Data Repository |
-| 03/27/2023 | Daniel Bojar | TDB |
+| 02/06/2023 | Ren&#233; Ranzinger and Akul Mehta | [Introduction into glycan arrays](#Introduction-into-glycan-arrays) |
+| 02/13/2023 | Yukie Akune | [CarbArrayART for glycan microarray data storage, presentation and reporting](#) |
+| 02/27/2023 | Akul Mehta | [Using GLAD for exploratory glycan microarray data analysis and visualization](#Using-GLAD-for-exploratory-glycan-microarray-data-analysis-and-visualization) |
+| 03/06/2023 | Zachary Klamer | [Using CarboGrove to Guide Experimental Design and Data Interpretation](#Using-CarboGrove-to-Guide-Experimental-Design-and-Data-Interpretation) |
+| 03/20/2023 | Ren&#233; Ranzinger | [The Glycan Array Data Repository](#The-Glycan-Array-Data-Repository) |
+| 03/27/2023 | Daniel Bojar | [TDB](#TBD) |
 
 <br/>
 
@@ -24,7 +24,14 @@ All webinars will start at 10am ET. Registration to the seminar series wil be do
 ### Intoduction into glycan arrays
 **Presenter**  
 <img src="Rene-Ranzinger.jpg" height="150" > <img src="AkulMehta.jpg" height="150" >  
-Ren&#233; Ranzinger and Akul Mehta
+Ren&#233; Ranzinger<sup>1</sup>  and Akul Mehta<sup>2</sup>  
+<sup>1</sup>Complex Carbohydrate Research Center  
+University of Georgia  
+Athens, GA, USA  
+
+<sup>2</sup>National Center for Functional Glycomics  
+Harvard Medical School  
+Boston, MA, USA  
 
 **Time**  
 02/06/2023 10am ET
@@ -44,7 +51,10 @@ This first webinar will start with a short introduction into the webinar series 
 
 **Presenter**  
 <img src="yukie-akune.jpg" height="150" >  
-Yukie Akune
+Yukie Akune  
+Department of Metabolism, Digestion and Reproduction  
+Imperial College London  
+London, UK  
 
 **Time**  
 02/13/2023 10am ET
@@ -64,7 +74,10 @@ CarbArrayART (Carbohydrate microArray Analysis and Reporting Tool) is a software
 
 **Presenter**  
 <img src="AkulMehta.jpg" height="150" >  
-Akul Mehta
+Akul Mehta  
+National Center for Functional Glycomics  
+Harvard Medical School  
+Boston, MA, USA
 
 **Time**  
 02/27/2023 10am ET
@@ -84,7 +97,9 @@ GLAD is a useful tool to explore data from several glycan microarray experiments
 
 **Presenter**  
 <img src="ZacharyKlamer.jpg" height="150" >  
-Zachary Klamer
+Zachary Klamer  
+Van Andel Research Institute  
+Grand Rapids, MI, USA  
 
 **Time**  
 03/06/2023 10am ET
@@ -102,7 +117,10 @@ Lectins and Glycan Binding Proteins are powerful and accessible tools for glycan
 ### The Glycan Array Data Repository
 **Presenter**  
 <img src="Rene-Ranzinger.jpg" height="150" >  
-Ren&#233; Ranzinger
+Ren&#233; Ranzinger  
+Complex Carbohydrate Research Center  
+University of Georgia  
+Athens, GA, USA  
 
 **Time**  
 03/20/2023 10am ET
