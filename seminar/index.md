@@ -1,5 +1,5 @@
 # GLIC seminar series
-The aim of the GLIC seminar series is to introduce and promote software tools and databases to the bioinformatics and (glyco-)biology community.
+The aim of the GLIC seminar series is to introduce and promote software tools and databases to the bioinformatics and (glyco-)biology community. If you want to learn more about GLIC please visit our [home page](https://glic.glycoinfo.org/).
 
 <br>
 
