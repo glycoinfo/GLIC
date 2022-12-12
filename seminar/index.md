@@ -1,9 +1,9 @@
 # GLIC seminar series
 The aim of the GLIC seminar series is to introduce and promote software tools and databases to the bioinformatics and (glyco-)biology community. If you want to learn more about GLIC please visit our [home page](https://glic.glycoinfo.org/).
 
-<br>
+<hr>
 
-## Special Topic: Glycan Array's
+## Special Topic: Glycan Arrays
 The webinar series on the special topic of glycan arrays will focus on tools and databases for processing, interpreting and storing glycan array data. The seminar series will start with an introduction into glycan arrays and how they can be used to study the interaction between glycans and other biological components, such as proteins, bio-fluids, lectins or micro-organism. The following webinars individual groups will present their software tools and databases and demonstrate their access and usage.
 
 All webinars will start at 10am ET. Registration to the seminar series wil be done using EventBrite.
