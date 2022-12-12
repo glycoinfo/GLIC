@@ -15,7 +15,7 @@ All webinars will start at 10am ET. Registration to the seminar series wil be do
 | 02/27/2023 | Akul Mehta | [Using GLAD for exploratory glycan microarray data analysis and visualization](#Using-GLAD-for-exploratory-glycan-microarray-data-analysis-and-visualization) |
 | 03/06/2023 | Zachary Klamer | [Using CarboGrove to Guide Experimental Design and Data Interpretation](#Using-CarboGrove-to-Guide-Experimental-Design-and-Data-Interpretation) |
 | 03/20/2023 | Ren&#233; Ranzinger | [The Glycan Array Data Repository](#The-Glycan-Array-Data-Repository) |
-| 03/27/2023 | Jon Lundstr&oslash;m | [LectinOracle@glycowork: Lectin binding predictions & glycan sequence analysis in Python](##lectinoracleglycowork-lectin-binding-predictions--glycan-sequence-analysis-in-python) |
+| 03/27/2023 | Jon Lundstr&oslash;m | [LectinOracle@glycowork: Lectin binding predictions & glycan sequence analysis in Python](#lectinoracleglycowork-lectin-binding-predictions--glycan-sequence-analysis-in-python) |
 
 <br/>
 
