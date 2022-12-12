@@ -15,7 +15,7 @@ All webinars will start at 10am ET. Registration to the seminar series wil be do
 | 02/27/2023 | Akul Mehta | [Using GLAD for exploratory glycan microarray data analysis and visualization](#Using-GLAD-for-exploratory-glycan-microarray-data-analysis-and-visualization) |
 | 03/06/2023 | Zachary Klamer | [Using CarboGrove to Guide Experimental Design and Data Interpretation](#Using-CarboGrove-to-Guide-Experimental-Design-and-Data-Interpretation) |
 | 03/20/2023 | Ren&#233; Ranzinger | [The Glycan Array Data Repository](#The-Glycan-Array-Data-Repository) |
-| 03/27/2023 | Daniel Bojar | [TDB](#TBD) |
+| 03/27/2023 | Jon Lundstr&oslash;m | [LectinOracle@glycowork: Lectin binding predictions & glycan sequence analysis in Python](##lectinoracleglycowork-lectin-binding-predictions--glycan-sequence-analysis-in-python) |
 
 <br/>
 
@@ -135,9 +135,15 @@ The Glycan Array Data Repository is a online database for storing and sharing gl
 
 <br/>
 
-### TBD
+### LectinOracle@glycowork: Lectin binding predictions & glycan sequence analysis in Python
+<img src="glycowork_badge_wo_bg.jpg" height="130" >  
+
 **Presenter**  
-Daniel Bojar
+<img src="Jon.jpg" height="150" >  
+Jon Lundstr&oslash;m  
+Department of Chemistry and Molecular Biology and Wallenberg Centre for Molecular and Translational Medicine  
+University of Gothenburg  
+Gothenburg, Sweden  
 
 **Time**  
 03/27/2023 10am ET
@@ -146,5 +152,5 @@ Daniel Bojar
 Sign up using EventBrite
 
 **Abstract**  
-TBD
+LectinOracle is a deep learning model for generalizable lectin-glycan binding predictions. Here, we demonstrate LectinOracle and showcase its use within glycowork, our Python package for glycan sequence processing & analysis, including interpretation of the results.
 
