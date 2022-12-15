@@ -6,8 +6,10 @@ The aim of the GLIC seminar series is to introduce and promote software tools an
 ## Special Topic: Glycan Arrays
 The GLIC webinar series on the special topic of glycan arrays will focus on tools and databases for processing, interpreting and storing glycan array data. The seminar series will start with an introduction to glycan arrays and how they can be used to study the interaction between glycans and other biological components, such as proteins, bio-fluids, lectins or micro-organism. In the following webinars individual groups will present their software tools and databases, and demonstrate their access and usage. All webinars will start at 10am ET.  
 
-Please register at **[EventBrite](https://glic-seminar-glycan-arrays.eventbrite.com)** to receive the Zoom link for the seminars.
+## Registration
+Please register at **[EventBrite](https://glic-seminar-glycan-arrays.eventbrite.com)** to receive the Zoom link for all the seminars.
 
+## Schedule
 | Date/Time | Presenter | Title |
 | --- | --- | --- |
 | 02/06/2023 | Ren&#233; Ranzinger and Akul Mehta | [Introduction to glycan arrays](#Introduction-into-glycan-arrays) |
@@ -20,6 +22,8 @@ Please register at **[EventBrite](https://glic-seminar-glycan-arrays.eventbrite.
 <br/>
 
 <br/>
+
+## Details
 
 ### Introduction to glycan arrays
 **Presenter**  
@@ -35,9 +39,6 @@ Boston, MA, USA
 
 **Time**  
 02/06/2023 10am ET
-
-**Registration**  
-Sign up using EventBrite
 
 **Abstract**  
 This first webinar will start with a short introduction into the webinar series and the individual talks. In this seminar we will provide a general overview about glycan array experiment and data processing and illustrate the use of this technique and data for the generation of new biological knowledge.
@@ -59,9 +60,6 @@ London, UK
 **Time**  
 02/13/2023 10am ET
 
-**Registration**  
-Sign up using EventBrite
-
 **Abstract**  
 CarbArrayART (Carbohydrate microArray Analysis and Reporting Tool) is a software tool for day to day use for: (1) Recording scan data and related metadata. (2) Processing and presentation of data as tables and charts with filtering and sorting functions and (3) Reporting data compliant with MIRAGE guidelines.
 
@@ -82,9 +80,6 @@ Boston, MA, USA
 **Time**  
 02/27/2023 10am ET
 
-**Registration**  
-Sign up using EventBrite
-
 **Abstract**  
 GLAD is a useful tool to explore data from several glycan microarray experiments. GLAD allows you to visualize your data and compare datasets using several visualization options. It also allows for basic data wrangling such as filtering and sorting your data.
 
@@ -104,9 +99,6 @@ Grand Rapids, MI, USA
 **Time**  
 03/06/2023 10am ET
 
-**Registration**  
-Sign up using EventBrite
-
 **Abstract**  
 Lectins and Glycan Binding Proteins are powerful and accessible tools for glycan analysis. Despite the abundance of datasets providing glycan-binding profiles of GBPs, researchers frequently interpret GBP binding using inaccurate or incomplete definitions of GBP specificity. Here we present CarboGrove, a database of data-driven and human-readable glycan binding specificities derived from 36 different glycan array platforms for hundreds of glycan binding proteins. To enable users to readily access the binding information, the database features many options for searching and filtering the results including the ability to search by affinity to various motifs. Furthermore, glycan-binding models can be downloaded and used for the prediction of GBP to new glycans, a crucial step in experimental design and the automated interpretation of glycan binding data.
 
@@ -124,9 +116,6 @@ Athens, GA, USA
 
 **Time**  
 03/20/2023 10am ET
-
-**Registration**  
-Sign up using EventBrite
 
 **Abstract**  
 The Glycan Array Data Repository is a online database for storing and sharing glycan array data. Every group or individual can create a account and submit their data including the MIRAGE compliant metadata. Users can freely search and access the sbumitted dataset.
@@ -147,9 +136,6 @@ Gothenburg, Sweden
 
 **Time**  
 03/27/2023 10am ET
-
-**Registration**  
-Sign up using EventBrite
 
 **Abstract**  
 LectinOracle is a deep learning model for generalizable lectin-glycan binding predictions. Here, we demonstrate LectinOracle and showcase its use within glycowork, our Python package for glycan sequence processing & analysis, including interpretation of the results.
