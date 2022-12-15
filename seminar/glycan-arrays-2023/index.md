@@ -9,7 +9,8 @@ The GLIC webinar series on the special topic of glycan arrays will focus on tool
 ## Registration
 Please register at **[EventBrite](https://glic-seminar-glycan-arrays.eventbrite.com)** to receive the Zoom link for all the seminars.
 
-## Schedule
+## Schedule  
+
 | Date/Time | Presenter | Title |
 | --- | --- | --- |
 | 02/06/2023 | Ren&#233; Ranzinger and Akul Mehta | [Introduction to glycan arrays](#Introduction-into-glycan-arrays) |
