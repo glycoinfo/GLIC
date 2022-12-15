@@ -16,7 +16,7 @@ Please register at **[EventBrite](https://glic-seminar-glycan-arrays.eventbrite.
 | 02/06/2023 | Ren&#233; Ranzinger and Akul Mehta | [Introduction to glycan arrays](#Introduction-into-glycan-arrays) |
 | 02/13/2023 | Yukie Akune | [CarbArrayART for glycan microarray data storage, presentation and reporting](#carbarrayart-for-glycan-microarray-data-storage-presentation-and-reporting) |
 | 02/27/2023 | Akul Mehta | [Using GLAD for exploratory glycan microarray data analysis and visualization](#Using-GLAD-for-exploratory-glycan-microarray-data-analysis-and-visualization) |
-| 03/06/2023 | Zachary Klamer | [Using CarboGrove to Guide Experimental Design and Data Interpretation](#Using-CarboGrove-to-Guide-Experimental-Design-and-Data-Interpretation) |
+| 03/06/2023 | Zachary Klamer | [Using CarboGrove to guide experimental design and data interpretation](#Using-CarboGrove-to-Guide-Experimental-Design-and-Data-Interpretation) |
 | 03/20/2023 | Ren&#233; Ranzinger | [The Glycan Array Data Repository](#The-Glycan-Array-Data-Repository) |
 | 03/27/2023 | Jon Lundstr&oslash;m | [LectinOracle@glycowork: Lectin binding predictions & glycan sequence analysis in Python](#lectinoracleglycowork-lectin-binding-predictions--glycan-sequence-analysis-in-python) |
 
@@ -88,7 +88,7 @@ GLAD is a useful tool to explore data from several glycan microarray experiments
 
 <br/>
 
-### Using CarboGrove to Guide Experimental Design and Data Interpretation
+### Using CarboGrove to guide experimental design and data interpretation
 <img src="https://carbogrove.org/Logo.png" height="130" >  
 
 **Presenter**  
