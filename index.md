@@ -9,7 +9,7 @@ This home page provides a list of software and databases for glycoscience resear
 
 ## Contents
 
-* [GLIC Seminar Series](https://glic.glycoinfo.org/seminar/glycan-arrays-2023): Seminars and workshops organized by GLIC members.
+* [GLIC Seminar Series](https://glic.glycoinfo.org/seminars/glycan-arrays-2023): Seminars and workshops organized by GLIC members.
 
 * [Software](https://glic.glycoinfo.org/software/): List of software developed by GLIC members.
 
