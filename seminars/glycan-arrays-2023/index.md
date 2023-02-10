@@ -14,14 +14,14 @@ Please register at **[EventBrite](https://glic-seminar-glycan-arrays.eventbrite.
 
 ## Schedule  
 
-| Date/Time | Presenter | Title |
-| --- | --- | --- |
-| 02/06/2023 | Ren&#233; Ranzinger and Akul Mehta | [Introduction to glycan arrays](#introduction-to-glycan-arrays) |
-| 02/13/2023 | Yukie Akune | [CarbArrayART for glycan microarray data storage, presentation and reporting](#carbarrayart-for-glycan-microarray-data-storage-presentation-and-reporting) |
-| 02/27/2023 | Akul Mehta | [Using GLAD for exploratory glycan microarray data analysis and visualization](#using-glad-for-exploratory-glycan-microarray-data-analysis-and-visualization) |
-| 03/06/2023 | Zachary Klamer | [Using CarboGrove to guide experimental design and data interpretation](#using-carbogrove-to-guide-experimental-design-and-data-interpretation) |
-| 03/20/2023 | Ren&#233; Ranzinger | [The Glycan Array Data Repository](#the-glycan-array-data-repository) |
-| 03/27/2023 | Jon Lundstr&oslash;m | [LectinOracle@glycowork: Lectin binding predictions & glycan sequence analysis in Python](#lectinoracleglycowork-lectin-binding-predictions--glycan-sequence-analysis-in-python) |
+| Date/Time | Presenter | Title | Resources |
+| --- | --- | --- | --- |
+| 02/06/2023 | Ren&#233; Ranzinger and Akul Mehta | [Introduction to glycan arrays](#introduction-to-glycan-arrays) | Slides |
+| 02/13/2023 | Yukie Akune | [CarbArrayART for glycan microarray data storage, presentation and reporting](#carbarrayart-for-glycan-microarray-data-storage-presentation-and-reporting) | Slides <br/> Files <br/> [Software](https://glycosciences.med.ic.ac.uk/carbarrayart.html) |
+| 02/27/2023 | Akul Mehta | [Using GLAD for exploratory glycan microarray data analysis and visualization](#using-glad-for-exploratory-glycan-microarray-data-analysis-and-visualization) |Slides <br/> Files <br/> [Software](https://glycotoolkit.com/GLAD/) |
+| 03/06/2023 | Zachary Klamer | [Using CarboGrove to guide experimental design and data interpretation](#using-carbogrove-to-guide-experimental-design-and-data-interpretation) |Slides <br/> Files <br/> [Software](https://carbogrove.org/) |
+| 03/20/2023 | Ren&#233; Ranzinger | [The Glycan Array Data Repository](#the-glycan-array-data-repository) | Slides <br/> [Database](https://glygen.ccrc.uga.edu/ggarray/) |
+| 03/27/2023 | Jon Lundstr&oslash;m | [LectinOracle@glycowork: Lectin binding predictions & glycan sequence analysis in Python](#lectinoracleglycowork-lectin-binding-predictions--glycan-sequence-analysis-in-python) | Slides <br/> Files <br/> Software |
 
 <br/>
 
