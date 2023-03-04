@@ -16,7 +16,7 @@ Please register at **[EventBrite](https://glic-seminar-glycan-arrays.eventbrite.
 
 | Date/Time | Presenter | Title | Resources |
 | --- | --- | --- | --- |
-| 02/06/2023 | Ren&#233; Ranzinger and Akul Mehta | [Introduction to glycan arrays](#introduction-to-glycan-arrays) | Slides |
+| 02/06/2023 | Ren&#233; Ranzinger and Akul Mehta | [Introduction to glycan arrays](#introduction-to-glycan-arrays) | [Slides](20230206_Introduction_To_Glycan_Arrays.pdf) |
 | 02/13/2023 | Yukie Akune | [CarbArrayART for glycan microarray data storage, presentation and reporting](#carbarrayart-for-glycan-microarray-data-storage-presentation-and-reporting) | Slides <br/> Files <br/> [Software](https://glycosciences.med.ic.ac.uk/carbarrayart.html) |
 | 02/27/2023 | Akul Mehta | [Using GLAD for exploratory glycan microarray data analysis and visualization](#using-glad-for-exploratory-glycan-microarray-data-analysis-and-visualization) |Slides <br/> Files <br/> [Software](https://glycotoolkit.com/GLAD/) |
 | 03/06/2023 | Zachary Klamer | [Using CarboGrove to guide experimental design and data interpretation](#using-carbogrove-to-guide-experimental-design-and-data-interpretation) |Slides <br/> Files <br/> [Software](https://carbogrove.org/) |
@@ -47,6 +47,8 @@ Boston, MA, USA
 **Abstract**  
 This first webinar will start with a short introduction into the webinar series and the individual talks. In this seminar we will provide a general overview about glycan array experiment and data processing and illustrate the use of this technique and data for the generation of new biological knowledge.
 
+**Material**  
+* [Slides](20230206_Introduction_To_Glycan_Arrays.pdf)
 <br/>
 
 <br/>
