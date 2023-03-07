@@ -99,7 +99,7 @@ GLAD is a useful tool to explore data from several glycan microarray experiments
 
 **Presenter**  
 <img src="ZacharyKlamer.jpg" height="150" >  
-Zachary Klamer  
+Zachary Klamer (zachary.klamer@vai.org)  
 Van Andel Research Institute  
 Grand Rapids, MI, USA  
 
@@ -110,6 +110,7 @@ Grand Rapids, MI, USA
 Lectins and Glycan Binding Proteins are powerful and accessible tools for glycan analysis. Despite the abundance of datasets providing glycan-binding profiles of GBPs, researchers frequently interpret GBP binding using inaccurate or incomplete definitions of GBP specificity. Here we present CarboGrove, a database of data-driven and human-readable glycan binding specificities derived from 36 different glycan array platforms for hundreds of glycan binding proteins. To enable users to readily access the binding information, the database features many options for searching and filtering the results including the ability to search by affinity to various motifs. Furthermore, glycan-binding models can be downloaded and used for the prediction of GBP to new glycans, a crucial step in experimental design and the automated interpretation of glycan binding data.
 
 **Material**  
+* [CarboGrove webpage](https://carbogrove.org/) 
 * [Slides](20230306_CarboGrove.pdf)
 <br/>
 
