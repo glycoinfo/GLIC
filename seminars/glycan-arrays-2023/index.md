@@ -16,10 +16,10 @@ Please register at **[EventBrite](https://glic-seminar-glycan-arrays.eventbrite.
 
 | Date/Time | Presenter | Title | Resources |
 | --- | --- | --- | --- |
-| 02/06/2023 | Ren&#233; Ranzinger and Akul Mehta | [Introduction to glycan arrays](#introduction-to-glycan-arrays) | [Slides](20230206_Introduction_To_Glycan_Arrays.pdf) |
+| 02/06/2023 | Ren&#233; Ranzinger and Akul Mehta | [Introduction to glycan arrays](#introduction-to-glycan-arrays) | [Slides](20230206_Introduction_To_Glycan_Arrays.pdf) <br/> [YouTube](https://www.youtube.com/watch?v=2r6qrnNzpRA) |
 | 02/13/2023 | Yukie Akune | [CarbArrayART for glycan microarray data storage, presentation and reporting](#carbarrayart-for-glycan-microarray-data-storage-presentation-and-reporting) | Slides <br/> Files <br/> [Software](https://glycosciences.med.ic.ac.uk/carbarrayart.html) |
 | 02/27/2023 | Akul Mehta | [Using GLAD for exploratory glycan microarray data analysis and visualization](#using-glad-for-exploratory-glycan-microarray-data-analysis-and-visualization) |Slides <br/> Files <br/> [Software](https://glycotoolkit.com/GLAD/) |
-| 03/06/2023 | Zachary Klamer | [Using CarboGrove to guide experimental design and data interpretation](#using-carbogrove-to-guide-experimental-design-and-data-interpretation) |Slides <br/> Files <br/> [Software](https://carbogrove.org/) |
+| 03/06/2023 | Zachary Klamer | [Using CarboGrove to guide experimental design and data interpretation](#using-carbogrove-to-guide-experimental-design-and-data-interpretation) |[Slides](20230306_CarboGrove.pdf) <br/> [Software](https://carbogrove.org/) |
 | 03/20/2023 | Ren&#233; Ranzinger | [The Glycan Array Data Repository](#the-glycan-array-data-repository) | Slides <br/> [Database](https://glygen.ccrc.uga.edu/ggarray/) |
 | 03/27/2023 | Jon Lundstr&oslash;m | [LectinOracle@glycowork: Lectin binding predictions & glycan sequence analysis in Python](#lectinoracleglycowork-lectin-binding-predictions--glycan-sequence-analysis-in-python) | Slides <br/> Files <br/> Software |
 
@@ -49,6 +49,7 @@ This first webinar will start with a short introduction into the webinar series 
 
 **Material**  
 * [Slides](20230206_Introduction_To_Glycan_Arrays.pdf)
+* [YouTube Recording](https://www.youtube.com/watch?v=2r6qrnNzpRA)
 <br/>
 
 <br/>
@@ -108,6 +109,8 @@ Grand Rapids, MI, USA
 **Abstract**  
 Lectins and Glycan Binding Proteins are powerful and accessible tools for glycan analysis. Despite the abundance of datasets providing glycan-binding profiles of GBPs, researchers frequently interpret GBP binding using inaccurate or incomplete definitions of GBP specificity. Here we present CarboGrove, a database of data-driven and human-readable glycan binding specificities derived from 36 different glycan array platforms for hundreds of glycan binding proteins. To enable users to readily access the binding information, the database features many options for searching and filtering the results including the ability to search by affinity to various motifs. Furthermore, glycan-binding models can be downloaded and used for the prediction of GBP to new glycans, a crucial step in experimental design and the automated interpretation of glycan binding data.
 
+**Material**  
+* [Slides](20230306_CarboGrove.pdf)
 <br/>
 
 <br/>
