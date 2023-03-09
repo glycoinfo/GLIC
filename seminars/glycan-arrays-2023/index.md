@@ -17,11 +17,11 @@ Please register at **[EventBrite](https://glic-seminar-glycan-arrays.eventbrite.
 | Date/Time | Presenter | Title | Resources |
 | --- | --- | --- | --- |
 | 02/06/2023 | Ren&#233; Ranzinger and Akul Mehta | [Introduction to glycan arrays](#introduction-to-glycan-arrays) | [Slides](20230206_Introduction_To_Glycan_Arrays.pdf) <br/> [YouTube](https://www.youtube.com/watch?v=2r6qrnNzpRA) |
-| 02/13/2023 | Yukie Akune | [CarbArrayART for glycan microarray data storage, presentation and reporting](#carbarrayart-for-glycan-microarray-data-storage-presentation-and-reporting) | Slides <br/> Files <br/> [Software](https://glycosciences.med.ic.ac.uk/carbarrayart.html) |
-| 02/27/2023 | Akul Mehta | [Using GLAD for exploratory glycan microarray data analysis and visualization](#using-glad-for-exploratory-glycan-microarray-data-analysis-and-visualization) |Slides <br/> Files <br/> [Software](https://glycotoolkit.com/GLAD/) |
+| 02/13/2023 | Yukie Akune | [CarbArrayART for glycan microarray data storage, presentation and reporting](#carbarrayart-for-glycan-microarray-data-storage-presentation-and-reporting) | Slides <br/> Demo Files <br/> [Software](https://glycosciences.med.ic.ac.uk/carbarrayart.html) |
+| 02/27/2023 | Akul Mehta | [Using GLAD for exploratory glycan microarray data analysis and visualization](#using-glad-for-exploratory-glycan-microarray-data-analysis-and-visualization) |[Slides](20230227_GLAD_Introduction.pdf) <br/> [Demo Files](https://github.com/glycoinfo/GLIC/blob/master/seminars/glycan-arrays-2023/demo-files/GLAD%20Demo%20files.zip?raw=true) <br/> [Software](https://glycotoolkit.com/GLAD/) |
 | 03/06/2023 | Zachary Klamer | [Using CarboGrove to guide experimental design and data interpretation](#using-carbogrove-to-guide-experimental-design-and-data-interpretation) |[Slides](20230306_CarboGrove.pdf) <br/> [Software](https://carbogrove.org/) |
 | 03/20/2023 | Ren&#233; Ranzinger | [The Glycan Array Data Repository](#the-glycan-array-data-repository) | Slides <br/> [Database](https://glygen.ccrc.uga.edu/ggarray/) |
-| 03/27/2023 | Jon Lundstr&oslash;m | [LectinOracle@glycowork: Lectin binding predictions & glycan sequence analysis in Python](#lectinoracleglycowork-lectin-binding-predictions--glycan-sequence-analysis-in-python) | Slides <br/> Files <br/> Software |
+| 03/27/2023 | Jon Lundstr&oslash;m | [LectinOracle@glycowork: Lectin binding predictions & glycan sequence analysis in Python](#lectinoracleglycowork-lectin-binding-predictions--glycan-sequence-analysis-in-python) | Slides <br/> Demo Files <br/> Software |
 
 <br/>
 
