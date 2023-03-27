@@ -164,6 +164,6 @@ LectinOracle is a deep learning model for generalizable lectin-glycan binding pr
 
 **Material**  
 * [Slides](20230327_LeOr_glycowork.pdf)
-* [GlycoWork Homepage](https://bojarlab.github.io/glycowork/)
+* [glycowork Homepage](https://bojarlab.github.io/glycowork/)
 * [Demo Files](https://drive.google.com/drive/folders/1Ro_0VMC-uzEOimJbP9O785aCY3Qk36yS?usp=sharing) 
 * YouTube Recording
