@@ -9,9 +9,6 @@ The GLIC webinar series on the special topic of glycan arrays will focus on tool
 ## Organizers  
 Rene Ranzinger and Akul Mehta
 
-## Registration
-Please register at **[EventBrite](https://glic-seminar-glycan-arrays.eventbrite.com)** to receive the Zoom link for all the seminars.
-
 ## Schedule  
 
 | Date/Time | Presenter | Title | Resources |
@@ -20,8 +17,8 @@ Please register at **[EventBrite](https://glic-seminar-glycan-arrays.eventbrite.
 | 02/13/2023 | Yukie Akune | [CarbArrayART for glycan microarray data storage, presentation and reporting](#carbarrayart-for-glycan-microarray-data-storage-presentation-and-reporting) | [Slides](20230213_CarbArrayART.pdf) <br/> [Software](https://glycosciences.med.ic.ac.uk/carbarrayart.html) <br/> [YouTube](https://www.youtube.com/watch?v=rrlj28bAF5Y) |
 | 02/27/2023 | Akul Mehta | [Using GLAD for exploratory glycan microarray data analysis and visualization](#using-glad-for-exploratory-glycan-microarray-data-analysis-and-visualization) |[Slides](20230227_GLAD_Introduction.pdf) <br/> [Files](https://github.com/glycoinfo/GLIC/blob/master/seminars/glycan-arrays-2023/demo-files/GLAD%20Demo%20files.zip?raw=true) <br/> [Software](https://glycotoolkit.com/GLAD/) <br/> [YouTube](https://www.youtube.com/watch?v=Oh5j-X5kQa4) |
 | 03/06/2023 | Zachary Klamer | [Using CarboGrove to guide experimental design and data interpretation](#using-carbogrove-to-guide-experimental-design-and-data-interpretation) |[Slides](20230306_CarboGrove.pdf) <br/> [Software](https://carbogrove.org/) <br/> [YouTube](https://www.youtube.com/watch?v=50jk_OCcER4) |
-| 03/20/2023 | Ren&#233; Ranzinger | [The Glycan Array Data Repository](#the-glycan-array-data-repository) | Slides <br/> [Database](https://glygen.ccrc.uga.edu/ggarray/) |
-| 03/27/2023 | Jon Lundstr&oslash;m | [LectinOracle@glycowork: Lectin binding predictions & glycan sequence analysis in Python](#lectinoracleglycowork-lectin-binding-predictions--glycan-sequence-analysis-in-python) | Slides <br/> Files <br/> Software |
+| 03/20/2023 | Ren&#233; Ranzinger | [The Glycan Array Data Repository](#the-glycan-array-data-repository) | [Slides](20230320_The_Glycan_Array_Data_Repository.pdf) <br/> [Database](https://glygen.ccrc.uga.edu/ggarray/) |
+| 03/27/2023 | Jon Lundstr&oslash;m | [LectinOracle@glycowork: Lectin binding predictions & glycan sequence analysis in Python](#lectinoracleglycowork-lectin-binding-predictions--glycan-sequence-analysis-in-python) | [Slides](20230327_LeOr_glycowork.pdf) <br/> [Files](https://drive.google.com/drive/folders/1Ro_0VMC-uzEOimJbP9O785aCY3Qk36yS?usp=sharing) <br/> [Software](https://bojarlab.github.io/glycowork/) |
 
 <br/>
 
@@ -140,6 +137,11 @@ Athens, GA, USA
 **Abstract**  
 The Glycan Array Data Repository is a online database for storing and sharing glycan array data. Every group or individual can create a account and submit their data including the MIRAGE compliant metadata. Users can freely search and access the sbumitted dataset.
 
+**Material**  
+* [Slides](20230320_The_Glycan_Array_Data_Repository.pdf)
+* [Glycan Array data repository (Beta) - Test system](https://glygen.ccrc.uga.edu/ggarray/)
+* [Glycan Array data repository - Production system](https://glygen.ccrc.uga.edu/array/)
+* YouTube Recording
 <br/>
 
 <br/>
@@ -160,3 +162,8 @@ Gothenburg, Sweden
 **Abstract**  
 LectinOracle is a deep learning model for generalizable lectin-glycan binding predictions. Here, we demonstrate LectinOracle and showcase its use within glycowork, our Python package for glycan sequence processing & analysis, including interpretation of the results.
 
+**Material**  
+* [Slides](20230327_LeOr_glycowork.pdf)
+* [GlycoWork Homepage](https://bojarlab.github.io/glycowork/)
+* [Demo Files](https://drive.google.com/drive/folders/1Ro_0VMC-uzEOimJbP9O785aCY3Qk36yS?usp=sharing) 
+* YouTube Recording
