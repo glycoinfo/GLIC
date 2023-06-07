@@ -35,6 +35,7 @@
 **Processed Data** | MS
 **Software Type** | Standalone Software
 **Availability** | <http://www.grits-toolbox.org>
+**Source code** | <https://github.com/GritsToolbox>
 **License** | none
 **Status** | stable, continues development
 **Funding** | NIH
