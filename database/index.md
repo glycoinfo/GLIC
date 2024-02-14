@@ -140,7 +140,7 @@ More advanced search functionality is available from GlyCosmos at https://glycos
 **Availability** | <http://csdb.glycoscience.ru>
 **License** | None (free)
 **Status** | stable, maintained, updated annually
-**Coverage** | aims to be complete for glycans of bacteria, archaea, protista, fungi up to now; for plants up to 2001
+**Coverage** | aims to be complete for glycans of bacteria, archaea, protista, fungi up to now; for plants up to 2001. Current coverage overview: <http://csdb.glycoscience.ru/database/core/covstats.html>
 **Curated** | yes
 **Funding** | Russian Foundation for Basic Research, Russian Science Foundation, Deutches Krebbsforschungszentrum
 **Future Plans** | see papers (<http://csdb.glycoscience.ru/help/credits.html#refs>)
