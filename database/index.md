@@ -129,19 +129,22 @@ More advanced search functionality is available from GlyCosmos at https://glycos
 <br>
 
 ### Carbohydrate Structure Database (CSDB)  
-  The Carbohydrate Structure Databases (CSDBs) store structural, bibliographic, taxonomic, NMR spectroscopic, and other data on natural carbohydrates and their derivatives published in the scientific literature. The CSDB project was launched in 2005 for bacterial saccharides (as BCSDB). Currently, it includes two parts, the Bacterial CSDB and the Plant&Fungal CSDB. In March 2015, these databases were merged to the single Carbohydrate Structure Database (CSDB). The combined CSDB includes information on bacterial and archaeal glycans and derivatives (the coverage is close to complete), as well as on plant and fungal glycans and glycoconjugates (almost all structures published up to 1998). CSDB is regularly updated via manual expert annotation of original publications. Both newly annotated data and data imported from other databases are manually curated. The CSDB data are exportable in a number of modern formats, such as GlycoRDF. CSDB provides additional services for simulation of 1H, 13C and 2D NMR spectra of saccharides, NMR-based structure prediction, glycan-based taxon clustering, and other.
+  The Carbohydrate Structure Database (CSDB) stores structural, bibliographic, taxonomic, NMR spectroscopic, and other data on natural carbohydrates and their derivatives published in the scientific literature. The CSDB project was launched in 2005 for bacterial saccharides (as BCSDB). The database focuses mainly on glycans, glycopolymers, and glycoconjugates of microorganisms. It provides close-to-complete coverage on prokaryotes, fungi, and protista, and partial (up to 2001) coverage on plants. CSDB is regularly updated via manual expert annotation of original publications. Both newly annotated data and data imported from other databases are manually curated. The CSDB data are exportable in many formats, including GlycoRDF. CSDB providesserves as platform for glycoinformatic services. They include SNFG-compatible graphic structure editor with live update of multiple notations and simulated atomic coordinates, accurate simulation of 1H, 13C and 2D NMR spectra of saccharides, NMR-based structure prediction, glycome-based taxon clustering, prediction of molecular geometry of oligosaccharides, and other. The CSDB portal hosts additional databases for glycosyltransferases with confirmed activity, glycan conformation maps, aglycons, monomers, glycoepitopes, etc.
 
 <br>
 
 | | |
 ---|---
-**Data in Database** | structures, NMR spectra, taxon annotations, bibliographic annatations, databases references, supplementary data
+**Data in Database** | structures, assigned NMR spectra, taxon annotations, bibliographic annatations, databases references, conformations, GT activity, supplementary data
 **Search Options** | structure search, sub-structure search, composition search, taxon search, bibliography search, NMR signal search, id search
 **Availability** | <http://csdb.glycoscience.ru>
 **License** | None (free)
-**Status** | stable, maintained
-**Funding** | Russian Foundation for Basic Research
-**Future Plans** | see papers
+**Status** | stable, maintained, updated annually
+**Coverage** | aims to be complete for glycans of bacteria, archaea, protista, fungi up to now; for plants up to 2001
+**Curated** | yes
+**Funding** | Russian Foundation for Basic Research, Russian Science Foundation, Deutches Krebbsforschungszentrum
+**Future Plans** | see papers (<http://csdb.glycoscience.ru/help/credits.html#refs>)
+**Data Availablity** | RDF feed, flat dumps, SQL (see DOI 10.1038/s41597-022-01186-9)
 **Code Availablity** | no
 **Contact** | Phyl Toukach: <netbox@toukach.ru>
 
