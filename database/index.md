@@ -130,8 +130,8 @@ More advanced search functionality is available from GlyCosmos at https://glycos
 
 ### Carbohydrate Structure Database (CSDB)  
   The Carbohydrate Structure Database (CSDB) stores structural, bibliographic, taxonomic, NMR spectroscopic, and other data on natural carbohydrates and their derivatives published in the scientific literature. The CSDB project was launched in 2005 for bacterial saccharides (as BCSDB). The database focuses mainly on glycans, glycopolymers, and glycoconjugates of microorganisms. It provides close-to-complete coverage on prokaryotes, fungi, and protista, and partial (up to 2001) coverage on plants. CSDB is regularly updated via manual expert annotation of original publications. Both newly annotated data and data imported from other databases are manually curated. The CSDB data are exportable in many formats, including GlycoRDF. CSDB providesserves as platform for glycoinformatic services. They include SNFG-compatible graphic structure editor with live update of multiple notations and simulated atomic coordinates, accurate simulation of 1H, 13C and 2D NMR spectra of saccharides, NMR-based structure prediction, glycome-based taxon clustering, prediction of molecular geometry of oligosaccharides, and other. The CSDB portal hosts additional databases for glycosyltransferases with confirmed activity, glycan conformation maps, aglycons, monomers, glycoepitopes, etc.
-
 <br>
+![CSDB Logo](https://glic.glycoinfo.org/logo/csdb.gif)
 
 | | |
 ---|---
