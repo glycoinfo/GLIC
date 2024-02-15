@@ -48,24 +48,44 @@
 
 <br>
 
-### GODESS
-  NMR spectrum simulation service for carbohydrate-containing molecules (including polymers and glycoconjugates). The output includes signal assignment tables, 1D and multiple 2D spectra. For every simulated chemical shift the predictor reports the expected error, trustworthiness metrics and databases references to data used in the simulation. The software uses empirical approach with own dedicated databases, statistical approach based on CSDB content, and hybrid approach. Supported nuclei are 13C and 1H. Solvent and temperature are taken into account. On the level of structures it supports most structural features of saccharides (several hundred residues, alditols, furanoses, amino acids, fatty acids, sphingoids; glycosidic, amide, or diester linkages). Average accuracy obtained on a large pool of structures was 0.86 ppm for &sup1;&sup3;C and 0.07ppm for &sup1;H.
+### GODDESS
+  GODDESS stands for Glycan-Optimized Database-Driven Spectrum Simulation. It is NMR spectrum simulation service for carbohydrate-containing molecules (including polymers and glycoconjugates). The output includes signal assignment tables, 1D and various 2D spectra. For every simulated chemical shift the predictor reports the expected error, trustworthiness metrics and databases references to data used in the simulation. The software uses empirical approach with own dedicated databases, statistical approach based on CSDB content, and hybrid approach. Supported nuclei are 13C and 1H; the filters provided include solvent, temperature, and pH. The tool supports most structural features of saccharides (several hundred residues, alditols, furanoses, amino acids, fatty acids, sphingoids; glycosidic, amide, or diester linkages). Average accuracy per resonance measured on a large pool of structures was 0.69 ppm for &sup1;&sup3;C and 0.06ppm for &sup1;H.
+![CSDB Logo](https://glic.glycoinfo.org/logo/goddess_and_grass_logo.gif)
  
 | | |
 ---|---
 **Processed Data** | NMR, structures
 **Software Type** | web application
-**Availability** | <http://csdb.glycoscience.ru/database/core/nmrsim.html>
+**Availability** | <http://csdb.glycoscience.ru/goddess.html>
 **License** | none (free)
 **Status** | stable, continues development
-**Funding** | Russiann Foundation for Basic Research
-**Future Plans** | HMBC prediction, structure iterator & ranking
+**Funding** | Russian Foundation for Basic Research
+**Reference** | DOIs: [10.1021/ci500267u](https://doi.org/10.1021/ci500267u), [10.1021/acs.analchem.5b01413](https://doi.org/10.1021/acs.analchem.5b01413), [10.1021/acs.jcim.6b00083](https://doi.org/10.1021/acs.jcim.6b00083)
+**Future Plans** | NOESY simulation
 **Contact** | Phyl Toukach: <netbox@toukach.ru>
 
 <a name="tools4"></a>
-
+<br>
 <br>
 
+### GRASS
+  GRASS stands for Generation, Ranking, and Assignment of Saccharide Structures. It is an NMR-based structure prediction service for carbohydrate-containing molecules (including polymers and glycoconjugates). The input is a digitized unassigned 13C NMR spectrum and known structural constraints (e.g. partial monomeric composition, or anomeric configurations). The output is a list of candidate structures, including all the remaining unknowns (e.g. molecule topology, sequence of residues, substitition pattern, etc.) and a metric of match. GRASS uses GODDESS to generate spectra of all chemically-possible structures within given constraints and rank them against the experimental data. It supports most known structural features of glycans, including atypical and non-carbohydrate substituents and linkage types, and can handle redundant or missing signals in the input dataset. All supported constraints are optional. The correct structure was reported among top-5 candidates in almost all cases of simple oligosaccharide structure prediction started from monomeric composition alone.
+![CSDB Logo](https://glic.glycoinfo.org/logo/goddess_and_grass_logo.gif)
+
+| | |
+---|---
+**Processed Data** | NMR, structures
+**Software Type** | web application
+**Availability** | <http://csdb.glycoscience.ru/grass.html>
+**License** | none (free)
+**Status** | stable, continues development
+**Funding** | Russian Foundation for Basic Research
+**Reference** | DOI: [10.1093/bioinformatics/btx696](https://doi.org/10.1093/bioinformatics/btx696)
+**Future Plans** | fuzzy HSQC matching
+**Contact** | Phyl Toukach: <netbox@toukach.ru>
+
+<a name="tools4a"></a>
+<br>
 <br>
 
 ### GlycoDigest
