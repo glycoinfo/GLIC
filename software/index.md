@@ -27,6 +27,39 @@
 
 <br>
 
+### CSDB/SNFG Glycan builder
+  CSDB hosts an online glycan builder to generate glycan illustrations, notation records, and atomic coordinates. It combines the benefits of classical SNFG-compatible GlycanBuilder(TM) and features of CSDB namespace and translators. You can draw any glycan or glycoconjugate, and get SNFG images, formulas, 3D models, and export to various carbohydrate notations or chemical formats. Main features are:
+- all non-cyclic oligomeric and polymeric topologies;<br>
+- over 500 residues supported by CSDB, including superclasses and non-carbohydrate constituents;<br>
+- aliases for unsupported residues with SMILES specification of structure;<br>
+- name- or abbreviation-based search for residues and modifications; quick access to popular constituents;<br>
+- regular, amide, diester, chelate and carbon-carbon bonds;<br>
+- all known configuration of monosaccharides, alditols and other constituents;<br>
+- support for uncertainties at the level of residue identity, substitution pattern, residue configurations, alternative branches;<br>
+- repeating substructures including nested repeats;<br>
+- instant preview in several text notations and in SNFG;<br>
+- generation of possible isomers and instant preview of chemical structure in SMILES and as a structural formula;<br>
+- preview of the optimized 3D molecular structure with multiple rendering and export options, including SNFG-coloring of residues;<br>
+- export to CSDB Linear, WURCS, Glycam, SweetDB, GlycoCT, SMILES, MOL, and PDB formats, and to hi-res SNFG images;<br>
+- import from CSDB Linear and GlycoCT notations;<br>
+- available on the web or as a module for usage in your project.
+
+| | |
+---|---
+**Processed Data** | carbohydrate notations, graphical user input, molecular structure and geometry
+**Software Type** | web application
+**Availability** | <http://csdb.glycoscience.ru/snfgedit/snfgedit.html>
+**License** | none (free)
+**Manual** | <http://csdb.glycoscience.ru/help/usage.html#snfgedit>
+**Status** | stable
+**Funding** | Russian Science Foundation
+**Reference** | DOI: [10.1021/acs.jcim.1c00917](https://doi.org/10.1021/acs.jcim.1c00917)
+**Contact** | Phyl Toukach: <netbox@toukach.ru>
+
+<a name="tools2a"></a>
+<br>
+<br>
+
 ### GRITS Toolbox
   GRITS Toolbox is a glycomics MS data processing software. The software allows not just to load, visualize and browser glycomics MS data but also to annotate the data with glycan structures and their fragments. Automatic annotated data can be manually evaluated, changed and exported to Excel. In addition side by side comparison of the different experiment for the study of glycosylation changes and glycosylation expression changes can be performed as well. In addition the software also captures and manages meta data such as sample description and description of the performed experiment.
 
@@ -60,6 +93,7 @@
 **License** | none (free)
 **Status** | stable, continues development
 **Funding** | Russian Foundation for Basic Research
+**Manual** | <http://csdb.glycoscience.ru/help/nmr.html>
 **Reference** | DOIs: [10.1021/ci500267u](https://doi.org/10.1021/ci500267u), [10.1021/acs.analchem.5b01413](https://doi.org/10.1021/acs.analchem.5b01413), [10.1021/acs.jcim.6b00083](https://doi.org/10.1021/acs.jcim.6b00083)
 **Future Plans** | NOESY simulation
 **Contact** | Phyl Toukach: <netbox@toukach.ru>
@@ -80,6 +114,7 @@
 **License** | none (free)
 **Status** | stable, continues development
 **Funding** | Russian Foundation for Basic Research
+**Manual** | <http://csdb.glycoscience.ru/help/nmr.html#grass>
 **Reference** | DOI: [10.1093/bioinformatics/btx696](https://doi.org/10.1093/bioinformatics/btx696)
 **Future Plans** | fuzzy HSQC matching
 **Contact** | Phyl Toukach: <netbox@toukach.ru>
