@@ -1,5 +1,12 @@
 # GLIC Card
 
+* 2024-09-10
+
+||
+|:-:|
+|![business_card_GLIC_2024](https://github.com/user-attachments/assets/718a2de5-0218-4137-b535-1bd64bf79442)|
+
+
 * 2022-09-12
 
 ||
