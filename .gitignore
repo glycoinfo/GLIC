@@ -1,0 +1,8 @@
+/bin/
+/target/
+.settings/
+.classpath
+.project
+settings.xml
+.m2/
+.m2/settings.xml
