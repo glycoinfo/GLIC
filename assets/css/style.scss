@@ -1,0 +1,35 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+// Main menu in the page header (see _layouts/default.html and _data/navigation.yml).
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  max-width: 64rem;
+  margin: 0 auto 1.5rem;
+
+  .btn {
+    margin: 0;
+
+    + .btn {
+      margin: 0;
+    }
+
+    // Cayman stacks header buttons full-width on phones; keep the menu compact instead.
+    @include small {
+      display: inline-block;
+      width: auto;
+      padding: 0.5rem 0.75rem;
+    }
+  }
+
+  .btn[aria-current="page"] {
+    color: rgba(255, 255, 255, 0.95);
+    background-color: rgba(255, 255, 255, 0.25);
+    border-color: rgba(255, 255, 255, 0.5);
+  }
+}

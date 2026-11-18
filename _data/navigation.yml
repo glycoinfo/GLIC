@@ -1,0 +1,22 @@
+# Main menu shown in the header of every page (see _layouts/default.html).
+# Each entry needs a title and a site-relative url ending in "/".
+# Reorder, add or remove entries here; no page files need to change.
+
+- title: Home
+  url: /
+- title: Software
+  url: /software/
+- title: Databases
+  url: /database/
+- title: Documentation
+  url: /documentation/
+- title: Meetings
+  url: /meetings/
+- title: Seminars
+  url: /seminars/glycan-arrays-2023/
+- title: Requests
+  url: /wishList/
+- title: Wish List
+  url: /toolsList/
+- title: About
+  url: /aboutus/
