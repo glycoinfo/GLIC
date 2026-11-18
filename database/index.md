@@ -209,7 +209,7 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 ---|---
 **Data in Database** | monosaccharide properties, residue names
 **Search Options** | name search, properties search
-**Availability** | <http://www.mononsaccharidedb.org>
+**Availability** | <http://www.monosaccharidedb.org>
 **License** | -
 **Status** | stable, maintained
 **Funding** | -
