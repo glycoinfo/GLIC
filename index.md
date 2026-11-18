@@ -5,25 +5,25 @@ The purpose of the Glycoinformatics Consortium (GLIC) is to provide a centralize
 This home page provides a list of software and databases for glycoscience research. There is also a Wish List to which scientists can contribute requests for software, tools or databases.
 <!-- * Sat, 16 Oct, 2019 9:00 - 18:00(JST)(planned), GLIC SPARQL endpoint will be unavailable due to maintenance. -->
 
-## [Board members](https://glic.glycoinfo.org/aboutus/)
+## [Board members](aboutus/index.md)
 
 ## Contents
 
-* [GLIC Seminar Series](https://glic.glycoinfo.org/seminars/glycan-arrays-2023): Seminars and workshops organized by GLIC members.
+* [GLIC Seminar Series](seminars/glycan-arrays-2023/index.md): Seminars and workshops organized by GLIC members.
 
-* [Software](https://glic.glycoinfo.org/software/): List of software developed by GLIC members.
+* [Software](software/index.md): List of software developed by GLIC members.
 
-* [Databases](https://glic.glycoinfo.org/database/): List of databases developed by GLIC members.
+* [Databases](database/index.md): List of databases developed by GLIC members.
 
-* [Documentation](https://glic.glycoinfo.org/documentation/): Documentation about proposed standards.
+* [Documentation](documentation/index.md): Documentation about proposed standards.
 
-* [Meetings](https://glic.glycoinfo.org/meetings/): Past and upcoming meetings.
+* [Meetings](meetings/index.md): Past and upcoming meetings.
 
-* [Glycoscience Survey](https://glic.glycoinfo.org/survey/): 
+* [Glycoscience Survey](survey/index.md): 
 
-* [Requests](https://glic.glycoinfo.org/wishList/): Form for submitting requests for software/database development.
+* [Requests](wishList/index.md): Form for submitting requests for software/database development.
 
-  * [WishList](https://glic.glycoinfo.org/toolsList/): List of requests selected from the submitted requests above.
+  * [WishList](toolsList/index.md): List of requests selected from the submitted requests above.
 
 * [GLIC RDF Support (GitLab)](https://gitlab.com/glycoinfo/glic/rdf): GLIC manages a repository for RDF data, providing a SPARQL endpoint automatically.
   * [GLIC RDF endpoint](https://sparql.glycoinfo.org/sparql): GLIC endpoint -- 'A system failure has occurred on GLIC endpoint. 2021-07-17 (JST)'

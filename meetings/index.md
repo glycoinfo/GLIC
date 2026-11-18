@@ -31,7 +31,7 @@
 #### GLIC endpoint online meeting
 * April 26, 2018: 
 
-#### <a href="http://glic.glycoinfo.org/meetings/LSworkshop2018/">International Life Science Integration Workshop</a> 
+#### [International Life Science Integration Workshop](LSworkshop2018/index.md) 
 * March 5-9, 2018: @Tokyo (<a href="https://www.sunplaza.jp/en/">Nakano Sunplaza</a>)
 
 #### GLIC Distributed GlycoHackathon

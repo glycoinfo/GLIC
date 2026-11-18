@@ -22,7 +22,7 @@
 
 ## Correction of GlycoCT: Underdetermined capping unit
 
-* [Points to note about GlycoCT](https://glic.glycoinfo.org/documentation/carbohydrate_sequence/PointsToNoteAboutGlycoCT/)
+* [Points to note about GlycoCT](../../documentation/carbohydrate_sequence/PointsToNoteAboutGlycoCT/index.md)
   * SubtreeLinkageID1:u(-1+1)u --> SubtreeLinkageID1:o(-1+1)d
 
 ```
