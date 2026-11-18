@@ -1,1 +1,20 @@
+# Site settings. GitHub Pages builds this site with Jekyll on every push to master.
+# title and description match what the site already shows (previously taken from the repo name/description).
+title: GLIC
+description: Glycoinformatics Consortium
+url: https://glic.glycoinfo.org
 theme: jekyll-theme-cayman
+
+# Both plugins are supported by GitHub Pages but must be listed to be enabled.
+plugins:
+  - jekyll-sitemap        # publishes /sitemap.xml for search engines
+  - jekyll-redirect-from  # keeps old URLs working (redirect_to / redirect_from)
+
+# Files kept in the repository but not published on the website.
+exclude:
+  - "*.ai"     # Illustrator sources (cards/)
+  - "*.eps"    # logo source
+  - "*.cdx"    # ChemDraw logo source
+  - Gemfile
+  - Gemfile.lock
+  - vendor
