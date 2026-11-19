@@ -33,3 +33,46 @@
     border-color: rgba(255, 255, 255, 0.5);
   }
 }
+
+// Compact header on every page except the homepage, so content starts near the top of the screen.
+.page-header--compact {
+  @include large {
+    padding: 1.5rem 6rem 0.75rem;
+  }
+
+  @include medium {
+    padding: 1.25rem 4rem 0.75rem;
+  }
+
+  @include small {
+    padding: 1rem 1rem 0.5rem;
+  }
+
+  .project-name {
+    margin-top: 0;
+    margin-bottom: 0.25rem;
+    font-size: 1.75rem;
+
+    @include small {
+      font-size: 1.4rem;
+    }
+  }
+
+  .project-tagline {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+
+    @include small {
+      font-size: 0.9rem;
+    }
+  }
+
+  .site-nav {
+    margin-bottom: 0.75rem;
+  }
+
+  .btn {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.85rem;
+  }
+}
