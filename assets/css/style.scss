@@ -34,6 +34,28 @@
   }
 }
 
+// Contents list on the Software and Databases pages (kramdown "{:toc}"), laid out in columns.
+#markdown-toc {
+  columns: 15rem 3;
+  column-gap: 2rem;
+  margin: 1rem 0 2rem;
+  padding: 1rem 1rem 1rem 2.25rem;
+  background-color: #f3f6fa;
+  border: solid 1px #dce6f0;
+  border-radius: 0.3rem;
+
+  li {
+    break-inside: avoid;
+  }
+}
+
+// On pages with a contents list, separate entries with a thin rule (replaces the old <br> spacers).
+.main-content:has(#markdown-toc) h3 {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: solid 1px #dce6f0;
+}
+
 // GLIC logo at the top of the header; links to the homepage.
 .site-logo {
   display: inline-block;
