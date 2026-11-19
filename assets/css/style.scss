@@ -34,8 +34,29 @@
   }
 }
 
+// GLIC logo at the top of the header; links to the homepage.
+.site-logo {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+
+  img {
+    display: block;
+    width: 96px;
+    height: 96px;
+  }
+}
+
 // Compact header on every page except the homepage, so content starts near the top of the screen.
 .page-header--compact {
+  .site-logo {
+    margin-bottom: 0.25rem;
+
+    img {
+      width: 44px;
+      height: 44px;
+    }
+  }
+
   @include large {
     padding: 1.5rem 6rem 0.75rem;
   }
