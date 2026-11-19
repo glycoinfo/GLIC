@@ -1,8 +1,12 @@
-/bin/
-/target/
-.settings/
-.classpath
-.project
-settings.xml
-.m2/
-.m2/settings.xml
+# Jekyll build output and caches (local preview with `bundle exec jekyll serve`)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.bundle/
+vendor/
+Gemfile.lock
+
+# Operating system files
+.DS_Store
+Thumbs.db

@@ -94,4 +94,4 @@ RES
 ## 4. Available substituents in GlycoCT
 ![substituents](https://user-images.githubusercontent.com/2530360/105281469-99c3f600-5bef-11eb-8334-8168823e4cff.png)
 
- [Available substituents in GlycoCT](https://github.com/glycoinfo/GLIC/blob/master/documentation/carbohydrate_sequence/AvailableSubstituentsGlycoCT.md)
+ [Available substituents in GlycoCT](../AvailableSubstituentsGlycoCT.md)
