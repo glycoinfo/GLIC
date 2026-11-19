@@ -56,6 +56,24 @@
   border-top: solid 1px #dce6f0;
 }
 
+// "Join the GLIC mailing list" button on the homepage and About page (issue #16).
+.main-content .join-button {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  font-weight: bold;
+  color: #fff;
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #159957);
+  border-radius: 0.3rem;
+
+  &:hover,
+  &:focus {
+    color: #fff;
+    text-decoration: none;
+    opacity: 0.9;
+  }
+}
+
 // GLIC logo at the top of the header; links to the homepage.
 .site-logo {
   display: inline-block;

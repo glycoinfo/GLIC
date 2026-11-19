@@ -13,3 +13,5 @@
 
 Those interested in joining can first sign up to the mailing list at
 <https://groups.google.com/g/glycoinformatics-consortium-glic>
+
+[Join the GLIC mailing list](https://groups.google.com/g/glycoinformatics-consortium-glic){: .join-button}
