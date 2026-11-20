@@ -56,6 +56,12 @@
   border-top: solid 1px #dce6f0;
 }
 
+// Embedded Google Form (Requests) and spreadsheet (Wish List): never wider than the screen.
+// The form has a fixed width="860", which is wider than a phone; this shrinks it to fit.
+.main-content iframe {
+  max-width: 100%;
+}
+
 // "Join the GLIC mailing list" button on the homepage and About page (issue #16).
 .main-content .join-button {
   display: inline-block;
