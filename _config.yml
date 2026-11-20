@@ -5,6 +5,17 @@ description: Glycoinformatics Consortium
 url: https://glic.glycoinfo.org
 theme: jekyll-theme-cayman
 
+# Metadata used by jekyll-seo-tag (search engines and link previews in chat, email and social media).
+author: Glycoinformatics Consortium
+logo: /assets/images/glic-logo-512.png  # organisation logo in structured data
+twitter:
+  card: summary                         # square preview, suits the round logo
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/glic-logo-512.png  # default preview image for every page
+
 # Both plugins are supported by GitHub Pages but must be listed to be enabled.
 plugins:
   - jekyll-sitemap        # publishes /sitemap.xml for search engines
