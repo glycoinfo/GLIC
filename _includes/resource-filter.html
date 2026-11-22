@@ -1,0 +1,61 @@
+{%- comment -%}
+  "Filter this list" box for the Software and Databases pages. Add it to a page with:
+    {% include resource-filter.html %}
+  Each "###" heading on the page is one entry. Typing hides the entries (and their links in the contents
+  list) whose name, summary and key-facts table do not contain every typed word. Without JavaScript the box
+  stays hidden and every entry is shown as usual.
+{%- endcomment -%}
+<div class="resource-filter" id="resource-filter" hidden>
+  <label for="resource-filter-input">Filter this list</label>
+  <input type="search" id="resource-filter-input" placeholder="For example: NMR, glycan array, Python" autocomplete="off">
+  <p class="resource-filter-status" id="resource-filter-status" aria-live="polite"></p>
+</div>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var box = document.getElementById("resource-filter");
+    var input = document.getElementById("resource-filter-input");
+    var status = document.getElementById("resource-filter-status");
+    var main = document.querySelector(".main-content");
+    if (!box || !main) return;
+
+    // Group each ### heading with everything after it, up to the next heading or the footer.
+    var entries = [];
+    main.querySelectorAll("h3[id]").forEach(function (heading) {
+      var parts = [heading];
+      var text = heading.textContent;
+      var searched = 0;
+      for (var el = heading.nextElementSibling; el && !/^(H2|H3|FOOTER)$/.test(el.tagName); el = el.nextElementSibling) {
+        parts.push(el);
+        // Search the summary paragraph and the key-facts table, not the long description.
+        if (searched < 2 && (el.tagName === "P" || el.tagName === "TABLE")) {
+          text += " " + el.textContent;
+          searched++;
+        }
+      }
+      var tocLink = main.querySelector('#markdown-toc a[href="#' + heading.id + '"]');
+      entries.push({ parts: parts, text: text.toLowerCase(), tocItem: tocLink && tocLink.parentElement });
+    });
+    if (!entries.length) return;
+
+    function escapeRegExp(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
+
+    function update() {
+      // Every typed word must match the start of a word, so "MS" does not match "systems".
+      var patterns = input.value.toLowerCase().split(/\s+/).filter(Boolean).map(function (word) {
+        return new RegExp("(^|[^a-z0-9])" + escapeRegExp(word));
+      });
+      var shown = 0;
+      entries.forEach(function (entry) {
+        var match = patterns.every(function (p) { return p.test(entry.text); });
+        entry.parts.forEach(function (el) { el.hidden = !match; });
+        if (entry.tocItem) entry.tocItem.hidden = !match;
+        if (match) shown++;
+      });
+      status.textContent = patterns.length ? "Showing " + shown + " of " + entries.length + " entries." : "";
+    }
+
+    input.addEventListener("input", update);
+    input.addEventListener("search", update);
+    box.hidden = false;
+  });
+</script>

@@ -277,3 +277,38 @@ input:focus-visible {
     color: $glic-muted;
   }
 }
+
+// "Filter this list" box on the Software and Databases pages (see _includes/resource-filter.html).
+.resource-filter {
+  margin: 1.5rem 0 1rem;
+
+  label {
+    display: block;
+    margin-bottom: 0.25rem;
+    font-weight: bold;
+    color: $glic-heading;
+  }
+
+  input {
+    width: 100%;
+    max-width: 24rem;
+    padding: 0.5rem 0.75rem;
+    font: inherit;
+    color: $glic-text;
+    border: solid 1px $glic-muted;
+    border-radius: 0.3rem;
+  }
+
+  .resource-filter-status {
+    min-height: 1.5em;
+    margin: 0.5rem 0 0;
+    font-size: 0.9rem;
+    color: $glic-muted;
+  }
+}
+
+// Entries hidden by the filter. Needed because Cayman sets "display: block" on tables, which would
+// otherwise override the hidden attribute.
+.main-content [hidden] {
+  display: none !important;
+}

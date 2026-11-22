@@ -4,6 +4,8 @@ Details such as status, license and future plans were recorded when each entry w
 
 To suggest a new resource or a correction, see [how to contribute](https://github.com/glycoinfo/GLIC/blob/master/CONTRIBUTING.md) or write to the [GLIC mailing list](https://groups.google.com/g/glycoinformatics-consortium-glic).
 
+{% include resource-filter.html %}
+
 {::options toc_levels="3" /}
 * TOC
 {:toc}
