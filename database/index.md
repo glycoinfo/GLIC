@@ -1,5 +1,7 @@
 ## Database Resources
 
+Details such as status, license and future plans were recorded when each entry was added and may have changed since. GLIC has not recently re-checked them, so please confirm them on each resource's own website.
+
 {::options toc_levels="3" /}
 * TOC
 {:toc}

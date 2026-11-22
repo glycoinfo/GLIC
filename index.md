@@ -10,7 +10,7 @@ This home page provides a list of software and databases for glycoscience resear
 
 ## Contents
 
-* [GLIC Seminar Series](seminars/glycan-arrays-2023/index.md): Seminars and workshops organized by GLIC members.
+* [GLIC Seminar Series](seminars/index.md): Seminars and workshops organized by GLIC members.
 
 * [Software](software/index.md): List of software developed by GLIC members.
 
@@ -24,6 +24,6 @@ This home page provides a list of software and databases for glycoscience resear
 
 * [Requests](wishList/index.md): Form for submitting requests for software/database development.
 
-  * [WishList](toolsList/index.md): List of requests selected from the submitted requests above.
+  * [WishList](toolsList/index.md): List of requests for new software, tools and databases.
 
 * [GLIC RDF endpoint](rdf/index.md): GLIC manages a repository for RDF data, providing a SPARQL endpoint automatically.
