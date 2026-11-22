@@ -62,21 +62,57 @@
   max-width: 100%;
 }
 
-// "Join the GLIC mailing list" button on the homepage and About page (issue #16).
-.main-content .join-button {
+// Buttons in page content, e.g. "Explore software" and "Join the GLIC mailing list".
+// In Markdown: [Link text](url){: .button}  or, for the outlined style, {: .button .button--secondary}
+.main-content .button {
   display: inline-block;
+  margin: 0 0.5rem 0.5rem 0;
   padding: 0.6rem 1.2rem;
   font-weight: bold;
   color: #fff;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957);
+  background-color: $header-bg-color-secondary;
+  border: solid 2px $header-bg-color-secondary;
   border-radius: 0.3rem;
 
-  &:hover,
-  &:focus {
-    color: #fff;
+  &:hover {
     text-decoration: none;
-    opacity: 0.9;
+    background-color: darken($header-bg-color-secondary, 8%);
+    border-color: darken($header-bg-color-secondary, 8%);
+  }
+}
+
+.main-content .button--secondary {
+  color: $header-bg-color-secondary;
+  background-color: #fff;
+
+  &:hover {
+    color: #fff;
+  }
+}
+
+// The three "Discover / Learn / Participate" boxes on the homepage.
+// Each box is a <section class="pathway" markdown="1"> inside <div class="pathways" markdown="1">.
+.main-content .pathways {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.main-content .pathway {
+  padding: 1rem 1.25rem;
+  background-color: #f3f6fa;
+  border: solid 1px #dce6f0;
+  border-radius: 0.3rem;
+
+  h2 {
+    margin-top: 0;
+    font-size: 1.25rem;
+  }
+
+  ul {
+    margin-bottom: 0;
+    padding-left: 1.25rem;
   }
 }
 
