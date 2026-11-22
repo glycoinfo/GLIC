@@ -2,6 +2,8 @@
 
 Details such as status, license and future plans were recorded when each entry was added and may have changed since. GLIC has not recently re-checked them, so please confirm them on each resource's own website.
 
+To suggest a new resource or a correction, see [how to contribute](https://github.com/glycoinfo/GLIC/blob/master/CONTRIBUTING.md) or write to the [GLIC mailing list](https://groups.google.com/g/glycoinformatics-consortium-glic).
+
 {::options toc_levels="3" /}
 * TOC
 {:toc}

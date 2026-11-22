@@ -5,3 +5,6 @@ glycoinformaticians.
 
 This home page provides a list of software and databases for glycoscience research.  There is also a Wish List to which 
 scientists can contribute requests for software, tools or databases.
+
+The website is published at <https://glic.glycoinfo.org>.
+To suggest a resource or a correction, or to edit the site, see [CONTRIBUTING.md](CONTRIBUTING.md).
