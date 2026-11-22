@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
+    <meta name="theme-color" content="#0b3d6e">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32.png' | relative_url }}">
@@ -19,7 +19,8 @@
       Copy of the jekyll-theme-cayman v0.2.0 default layout. Changes:
       - the <nav class="site-nav"> block in the header, built from _data/navigation.yml;
       - a compact header (page-header--compact) on every page except the homepage;
-      - the GLIC logo (links to the homepage) and a favicon.
+      - the GLIC logo (links to the homepage) and a favicon;
+      - a short description of GLIC and contact links in the footer.
     {% endcomment %}
     {%- assign is_home = false -%}
     {%- if page.url == "/" or page.url == "/index.html" -%}{%- assign is_home = true -%}{%- endif %}
@@ -55,6 +56,11 @@
       {{ content }}
 
       <footer class="site-footer">
+        <p class="site-footer-about">GLIC, the Glycoinformatics Consortium, connects glycoscientists and glycoinformaticians through computational resources and community activities.</p>
+        <p class="site-footer-links">
+          <a href="https://groups.google.com/g/glycoinformatics-consortium-glic">GLIC mailing list</a> &middot;
+          <a href="https://github.com/glycoinfo/GLIC">Website source on GitHub</a>
+        </p>
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
