@@ -1,7 +1,90 @@
 ---
 ---
 
+// GLIC colours. The blue is taken from the GLIC logo; the others are darker or lighter shades of it.
+// Every text colour below was checked against WCAG AA (at least 4.5:1 for normal text on its background).
+// Change a colour here and the whole site follows, including the Cayman theme's own styles.
+$glic-blue: #0869b2;     // logo blue: links, buttons, end of the header gradient (white text on it: 5.7:1)
+$glic-navy: #0b3d6e;     // start of the header gradient, button hover, focus outline (11:1 on white)
+$glic-heading: #0a4f86;  // headings in page content (8.5:1 on white)
+$glic-text: #3b4750;     // body text (9.5:1 on white)
+$glic-muted: #5b6770;    // secondary text such as the footer (5.8:1 on white)
+$glic-surface: #f3f6fa;  // light background of boxes and the contents list
+$glic-border: #dce6f0;   // thin borders and dividers
+
+// Cayman theme settings (defined with !default in the theme, so these values win).
+$header-bg-color: $glic-blue;
+$header-bg-color-secondary: $glic-navy;
+$section-headings-color: $glic-heading;
+$body-text-color: $glic-text;
+$body-link-color: $glic-blue;
+$blockquote-text-color: $glic-muted;
+$border-color: $glic-border;
+
 @import 'jekyll-theme-cayman';
+
+// Body text: comfortable line spacing and line length; long URLs and email addresses wrap instead of
+// widening the page on phones.
+.main-content {
+  overflow-wrap: break-word;
+
+  p,
+  li {
+    line-height: 1.65;
+  }
+
+  > p {
+    max-width: 72ch;
+  }
+
+  // Cayman lets wide tables scroll sideways. Long links inside cells may wrap, but a cell never gets
+  // narrower than 8rem, so tables with many columns scroll instead of squeezing their text.
+  td {
+    min-width: 8rem;
+
+    a[href^="http"],
+    a[href^="mailto:"] {
+      overflow-wrap: anywhere;
+    }
+  }
+}
+
+// Keyboard focus: a clearly visible outline on every link, button and form field.
+// Navy on the white page, white on the blue header.
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 3px solid $glic-navy;
+  outline-offset: 2px;
+}
+
+.page-header a:focus-visible {
+  outline-color: #fff;
+}
+
+#skip-to-content:focus {
+  padding: 0.5rem 1rem;
+  color: #fff;
+  background-color: $glic-navy;
+}
+
+// Header text and buttons: full white, because Cayman's semi-transparent white is too faint on blue.
+.page-header {
+  .project-tagline {
+    opacity: 0.9;
+  }
+
+  .btn {
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.4);
+
+    &:hover {
+      color: #fff;
+      background-color: rgba(0, 0, 0, 0.2);
+      border-color: rgba(255, 255, 255, 0.6);
+    }
+  }
+}
 
 // Main menu in the page header (see _layouts/default.html and _data/navigation.yml).
 .site-nav {
@@ -27,10 +110,11 @@
     }
   }
 
+  // The page you are on: a white button with navy text.
   .btn[aria-current="page"] {
-    color: rgba(255, 255, 255, 0.95);
-    background-color: rgba(255, 255, 255, 0.25);
-    border-color: rgba(255, 255, 255, 0.5);
+    color: $glic-navy;
+    background-color: #fff;
+    border-color: #fff;
   }
 }
 
@@ -40,8 +124,8 @@
   column-gap: 2rem;
   margin: 1rem 0 2rem;
   padding: 1rem 1rem 1rem 2.25rem;
-  background-color: #f3f6fa;
-  border: solid 1px #dce6f0;
+  background-color: $glic-surface;
+  border: solid 1px $glic-border;
   border-radius: 0.3rem;
 
   li {
@@ -53,7 +137,7 @@
 .main-content:has(#markdown-toc) h3 {
   margin-top: 2.5rem;
   padding-top: 1.5rem;
-  border-top: solid 1px #dce6f0;
+  border-top: solid 1px $glic-border;
 }
 
 // Embedded Google Form (Requests) and spreadsheet (Wish List): never wider than the screen.
@@ -62,25 +146,59 @@
   max-width: 100%;
 }
 
-// "Join the GLIC mailing list" button on the homepage and About page (issue #16).
-.main-content .join-button {
+// Buttons in page content, e.g. "Explore software" and "Join the GLIC mailing list".
+// In Markdown: [Link text](url){: .button}  or, for the outlined style, {: .button .button--secondary}
+.main-content .button {
   display: inline-block;
+  margin: 0 0.5rem 0.5rem 0;
   padding: 0.6rem 1.2rem;
   font-weight: bold;
   color: #fff;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957);
+  background-color: $glic-blue;
+  border: solid 2px $glic-blue;
   border-radius: 0.3rem;
 
-  &:hover,
-  &:focus {
+  &:hover {
     color: #fff;
     text-decoration: none;
-    opacity: 0.9;
+    background-color: $glic-navy;
+    border-color: $glic-navy;
+  }
+}
+
+.main-content .button--secondary {
+  color: $glic-blue;
+  background-color: #fff;
+}
+
+// The three "Discover / Learn / Participate" boxes on the homepage.
+// Each box is a <section class="pathway" markdown="1"> inside <div class="pathways" markdown="1">.
+.main-content .pathways {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.main-content .pathway {
+  padding: 1rem 1.25rem;
+  background-color: $glic-surface;
+  border: solid 1px $glic-border;
+  border-radius: 0.3rem;
+
+  h2 {
+    margin-top: 0;
+    font-size: 1.25rem;
+  }
+
+  ul {
+    margin-bottom: 0;
+    padding-left: 1.25rem;
   }
 }
 
 // GLIC logo at the top of the header; links to the homepage.
+// The white disc keeps the blue logo visible on the blue header.
 .site-logo {
   display: inline-block;
   margin-bottom: 0.75rem;
@@ -89,6 +207,8 @@
     display: block;
     width: 96px;
     height: 96px;
+    background-color: #fff;
+    border-radius: 50%;
   }
 }
 
@@ -142,4 +262,53 @@
     padding: 0.4rem 0.8rem;
     font-size: 0.85rem;
   }
+}
+
+// Footer: a short description of GLIC, contact links, then the GitHub Pages credit.
+.site-footer {
+  color: $glic-muted;
+
+  p {
+    max-width: 72ch;
+    margin-bottom: 0.5rem;
+  }
+
+  .site-footer-credits {
+    color: $glic-muted;
+  }
+}
+
+// "Filter this list" box on the Software and Databases pages (see _includes/resource-filter.html).
+.resource-filter {
+  margin: 1.5rem 0 1rem;
+
+  label {
+    display: block;
+    margin-bottom: 0.25rem;
+    font-weight: bold;
+    color: $glic-heading;
+  }
+
+  input {
+    width: 100%;
+    max-width: 24rem;
+    padding: 0.5rem 0.75rem;
+    font: inherit;
+    color: $glic-text;
+    border: solid 1px $glic-muted;
+    border-radius: 0.3rem;
+  }
+
+  .resource-filter-status {
+    min-height: 1.5em;
+    margin: 0.5rem 0 0;
+    font-size: 0.9rem;
+    color: $glic-muted;
+  }
+}
+
+// Entries hidden by the filter. Needed because Cayman sets "display: block" on tables, which would
+// otherwise override the hidden attribute.
+.main-content [hidden] {
+  display: none !important;
 }

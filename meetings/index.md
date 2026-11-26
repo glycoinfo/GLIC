@@ -1,12 +1,12 @@
+---
+title: Meetings
+---
+
 ## Upcoming meetings
 
-#### GLIC online meeting
-* Xxx xx, 2022: 
+No upcoming GLIC meetings have been announced.
 
-#### GLIC Hackathon
-* Xxx xx, 2022: 
-
-
+Meetings are announced on the [GLIC mailing list](https://groups.google.com/g/glycoinformatics-consortium-glic).
 
 ## Past meetings
 
